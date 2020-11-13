@@ -1,0 +1,35 @@
+{
+  "id": "30c7390b-6d46-4924-9c30-46df583a3b47",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I remove a ma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I have unistalled and reinstalled the Ubuntu Software Center as per info I found in a similar thread and I got the same response about line 91 or something like that. I just tried to upload a screen ... apt asked Nov 13 \u002711 at 20:43 eminencejae 74911 gold badge66 silver badges33 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

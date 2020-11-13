@@ -1,0 +1,35 @@
+{
+  "id": "f7965080-83e0-4bb8-94b3-f63fe9d23c3c",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I restore the",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are now errors when updating and I cannot install most software due to a corrupted /etc/apt/sources.list file. Is there a copy I can download to replace it? The file would be for Ubuntu 12.04 ... repository software-sources asked Apr 21 \u002712 at 18:08 Andy Castille 1,97733 gold badges1717 silver badges2121 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

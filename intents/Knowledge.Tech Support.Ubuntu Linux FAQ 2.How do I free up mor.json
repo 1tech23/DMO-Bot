@@ -1,0 +1,35 @@
+{
+  "id": "afd4c3b2-0c1e-4b4f-9ed7-f44d08a84382",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I free up mor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "My /boot partition is nearly full and I get a warning every time I reboot my system. I already deleted old kernel packages (linux-headers...), actually I did that to install a newer kernel version ... boot hard-drive filesystem disk-usage init asked Dec 22 \u002711 at 10:06 user6722 6,02533 gold badges1313 silver badges1313 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

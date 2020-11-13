@@ -1,0 +1,35 @@
+{
+  "id": "aac90fa0-070b-466f-ac22-79a5da8af067",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How to fix “The syst",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Note: This is an attempt to create a canonical question that covers all instances of \"low-graphics mode\" error that occurs to a user, including but not limited to installation of wrong ... xorg lightdm login-screen unity-greeter community wiki 6 revsjokerdino"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

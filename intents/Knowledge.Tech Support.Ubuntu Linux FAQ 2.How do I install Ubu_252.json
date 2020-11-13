@@ -1,0 +1,35 @@
+{
+  "id": "dcd93498-f45f-4d58-99fa-177fe95d2dd9",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I install Ubu_252",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m absolutely new to Linux. I would like to know how to install Ubuntu alongside the pre-installed Windows 8+ OS. Should I do it with Wubi, or through the Live USB/DVD? What steps do I need to take ... dual-boot system-installation windows uefi windows-10 community wiki 36 revs, 19 users 17%kiri"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

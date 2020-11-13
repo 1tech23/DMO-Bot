@@ -1,0 +1,35 @@
+{
+  "id": "8c9c59c2-15af-46fc-974d-107b5401e300",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I upgrade to ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What are the different ways I can use to upgrade Ubuntu from one release to another? upgrade release-management community wiki 16 revs, 9 users 41%rakshith"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

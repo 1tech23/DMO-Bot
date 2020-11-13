@@ -1,0 +1,35 @@
+{
+  "id": "24026961-7612-458c-b109-6d174f5ee1ad",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I install Ubu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I would like to see a full how-to guide on how to install Ubuntu. system-installation asked Oct 12 \u002710 at 8:40 yehhhimanshu"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

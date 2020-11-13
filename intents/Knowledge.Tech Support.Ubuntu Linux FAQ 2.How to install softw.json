@@ -1,0 +1,35 @@
+{
+  "id": "a3b4f122-01dc-4332-8521-0dd10ef89751",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How to install softw",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Recently I have installed an older version of Ubuntu on my old machine. Whenever I try to install any software, I get an error saying it couldn\u0027t be found: $ sudo apt-get install vlc Reading package ... package-management upgrade repository release-management support asked Dec 31 \u002711 at 18:29 made_in_india 4,57333 gold badges1616 silver badges1515 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

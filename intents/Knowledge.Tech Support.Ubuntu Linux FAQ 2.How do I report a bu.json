@@ -1,0 +1,35 @@
+{
+  "id": "b6948e85-5f5d-4f82-ad43-cc2e3c9d6f11",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I report a bu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I found a problem with an application on Ubuntu. Questions : How do I best report the issue? What sort of information should I provide? bug-reporting asked Oct 3 \u002710 at 14:37 andrewsomething 35.1k1111 gold badges8282 silver badges137137 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

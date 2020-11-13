@@ -1,0 +1,35 @@
+{
+  "id": "76181a54-edb0-43fa-b786-a985c75742b4",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I install a .",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I have downloaded tar.gz files. But I don\u0027t know how to install it. How do I install this kind of file? software-installation install-from-source asked Feb 12 \u002711 at 13:01 Silambarasan 6,46588 gold badges2222 silver badges2626 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

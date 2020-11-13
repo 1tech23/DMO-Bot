@@ -1,0 +1,35 @@
+{
+  "id": "cd906324-a83f-432f-847a-0648b7e87b78",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I install the",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I just ordered the Nvidia GTX card. I have a dilemma, though. Should I keep using the driver which is available in \"additional drivers\" in Ubuntu, or should I install the driver from the Nvidia site? ... drivers nvidia hybrid-graphics asked Sep 14 \u002711 at 14:21 Richard Rodriguez 7,7181111 gold badges2727 silver badges3535 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

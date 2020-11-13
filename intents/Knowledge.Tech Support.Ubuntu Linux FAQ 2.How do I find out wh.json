@@ -1,0 +1,35 @@
+{
+  "id": "f8382311-476b-4faf-aaac-e4088f5a461f",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I find out wh",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For a given hardware configuration, how do I find out if Ubuntu will run on it? What considerations should I take into account when choosing an Ubuntu version and flavour such as: Xubuntu with a ... hardware versions compatibility system-requirements distro-recommendation asked Oct 25 \u002712 at 18:45 con-f-use 17k1919 gold badges8282 silver badges140140 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

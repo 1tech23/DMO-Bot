@@ -1,0 +1,35 @@
+{
+  "id": "a78a2c31-a0aa-47f3-893f-411a7e631db7",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I enable the ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "How do I get to the Universe Repository in supported versions of Ubuntu? software-center package-management software-sources asked Jun 9 \u002712 at 16:40 Dr.C.Badrinathan 2,03722 gold badges1313 silver badges55 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

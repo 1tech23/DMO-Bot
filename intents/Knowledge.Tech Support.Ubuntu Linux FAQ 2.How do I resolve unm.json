@@ -1,0 +1,35 @@
+{
+  "id": "4331d6bc-ae1f-46e1-b37b-b103a81bb2ad",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I resolve unm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Occasionally, when I\u0027m installing stuff, I get an error like the following: Some packages could not be installed. This may mean that you have requested an impossible situation or if you are using the ... apt software-installation package-management ppa dependencies asked May 21 \u002712 at 14:17 jrg 55.9k5151 gold badges164164 silver badges244244 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

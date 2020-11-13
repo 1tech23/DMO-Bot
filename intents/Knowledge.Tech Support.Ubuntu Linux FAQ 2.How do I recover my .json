@@ -1,0 +1,35 @@
+{
+  "id": "a2bea6f2-591b-4e37-baf2-a48cbede84e2",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I recover my ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I have a Toshiba satellite A-200 laptop with a Vista OS on it with 4 NTFS partitions (C:) Vista (D:) Entertainment (E:) Work (F:) Sources and I wanted to start using Ubuntu instead. So I tried it ... ntfs data-recovery partitioning asked Apr 26 \u002713 at 20:12 Totally newbie 56111 gold badge44 silver badges55 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

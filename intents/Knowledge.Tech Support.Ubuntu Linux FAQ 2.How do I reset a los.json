@@ -1,0 +1,35 @@
+{
+  "id": "09cf4ea6-b61c-453b-9fda-4557db4ec03d",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I reset a los",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m working on a Ubuntu system, and my client has completely forgotten his administrative password. He doesn\u0027t even remember entering one; however it is there. I\u0027ve tried the suggestions on the ... password-recovery asked Jan 30 \u002711 at 14:50 user9904"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "92079f6b-628c-4202-9238-feabffab39c3",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How to customize the",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I would like to customize Ubuntu live CD by installing some additional packages. I have followed this but it doesn\u0027t seems to work. Can anyone provide clear instructions? Note: I do not prefer ... custom-distributions asked Jun 13 \u002711 at 16:34 karthick87 68.5k5757 gold badges186186 silver badges227227 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

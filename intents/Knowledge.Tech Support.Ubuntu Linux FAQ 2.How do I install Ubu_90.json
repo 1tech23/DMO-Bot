@@ -1,0 +1,35 @@
+{
+  "id": "71a11960-954f-472a-98be-a14a23c59c32",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I install Ubu_90",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you are hurrying to reply, System → Administration → StartUp Disk Creator -- no, that\u0027s not what I\u0027m talking about. I want to try Ubuntu 11.04\u0027s Unity without touching my existing Ubuntu install. ... system-installation asked Dec 11 \u002710 at 19:20 badp 10.3k1212 gold badges4040 silver badges5252 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

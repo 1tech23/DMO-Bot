@@ -1,0 +1,35 @@
+{
+  "id": "d258e830-22e6-4f45-8acf-e6a7906fdd94",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I start appli",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "How can I make an application automatically start when I have logged in? autostart asked Jun 12 \u002711 at 7:42 Lincity 24.3k2828 gold badges117117 silver badges148148 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

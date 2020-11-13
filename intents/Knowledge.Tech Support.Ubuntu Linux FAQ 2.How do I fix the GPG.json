@@ -1,0 +1,35 @@
+{
+  "id": "eb2d0910-b76f-4ef8-9790-49f9b5b056c5",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How do I fix the GPG",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I added some extra repositories with the Software Sources program. But when I reload the package database, I get an error like the following: W: GPG error: http://ppa.launchpad.net trusty InRelease:... apt gnupg asked Nov 13 \u002710 at 20:27 Agmenor 13.3k1616 gold badges6161 silver badges100100 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

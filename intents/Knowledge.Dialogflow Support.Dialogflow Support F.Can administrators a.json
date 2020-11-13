@@ -1,0 +1,35 @@
+{
+  "id": "d636febc-e6fd-43d1-ace6-8bebcf338b93",
+  "name": "Knowledge.Dialogflow Support.Dialogflow Support F.Can administrators a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes.You can log all end-user conversations in BigQuery and control where it is stored, as well as IAM controls for who can access it."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "8de9aae9-1a35-4cbb-91bf-3e025a52e9be",
+  "name": "Knowledge.Dialogflow Support.Dialogflow Support F.Does Dialogflow rein",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes.Google coordinates external third party penetration testing using qualified and certified penetration testers. See the whitepaper."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

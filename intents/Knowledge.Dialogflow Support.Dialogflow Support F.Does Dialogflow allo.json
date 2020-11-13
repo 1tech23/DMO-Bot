@@ -1,0 +1,35 @@
+{
+  "id": "c59827c4-8f1b-4610-8da4-d3ed1575dd48",
+  "name": "Knowledge.Dialogflow Support.Dialogflow Support F.Does Dialogflow allo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes.For developer-user or application access to the Dialogflow console and API, see information on access control.For fulfillment with an application, see authentication information for the webhook service.For end-user access,Diaglogflow does not authenticate end-users. Your system or third party integration is responsible for the management of end-user authentication, authorization, and credentials."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

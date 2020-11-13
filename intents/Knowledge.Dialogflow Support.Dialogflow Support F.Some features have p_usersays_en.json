@@ -1,0 +1,15 @@
+[
+  {
+    "id": "3bb42858-7c3a-46ef-89cf-254e15e21fd5",
+    "data": [
+      {
+        "text": "Some features have price brackets for monthly request counts. Is the final charge based only on the total number of requests, or is it possibly for multiple brackets to apply as the month goes on.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

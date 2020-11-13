@@ -1,0 +1,35 @@
+{
+  "id": "5a799eb9-ea91-41d1-9a99-ad834f17f711",
+  "name": "Knowledge.Dialogflow Support.Dialogflow Support F.Does any data get st",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Not by Dialogflow.Mobile developers and third party integrations can choose to store Dialogflow data as needed."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

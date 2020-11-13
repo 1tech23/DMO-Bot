@@ -1,0 +1,35 @@
+{
+  "id": "44b8e7cc-f090-4fd9-aaa0-d3a0cbaa6984",
+  "name": "Knowledge.Dialogflow Support.Dialogflow Support F.Can Dialogflow secur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dialogflow can be integrated with Google\u0027s Data Loss Prevention API to handle PII, PCI and sensitive data to inspect, mask, and redact data as needed."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

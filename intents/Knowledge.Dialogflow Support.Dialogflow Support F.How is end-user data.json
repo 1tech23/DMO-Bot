@@ -1,0 +1,35 @@
+{
+  "id": "1d97b60b-b225-465d-931c-03aec8b781b2",
+  "name": "Knowledge.Dialogflow Support.Dialogflow Support F.How is end-user data",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Text conversations sent to Dialogflow are saved to internal systems for storage. However, you can turn off conversation history storage and optionally store conversations elsewhere.Audio conversations are only stored if you opt in to data logging and enhanced speech models.Data that passes through third party integrations may be handled differently. See the third party\u0027s terms of service, privacy policy, and security policy."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "01b9f921-8a9c-4230-8be7-5d099207a45b",
+  "name": "Knowledge.Dialogflow Support.Dialogflow Support F.Can Dialogflow appli",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes.The Dialogflow service itself cannot be deployed on-premises, however, your on-premises applications can access the Dialogflow cloud service. You can also host a webhook service on-premises, but it must be accessible through a public URL."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

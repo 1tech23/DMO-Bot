@@ -1,0 +1,41 @@
+{
+  "id": "f79d8aca-c774-4667-9dd9-450dbb7505e1",
+  "name": "i need help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ineedhelp-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright. I can help you with DnD campaign creation. That is all that I can do at the current moment. Logan is working on it. Try typing \"help me with a DnD campaign.\" If you need another kind of help, directly from my developer, email Logan Alldredge at lalldredge7622@uinta1.org, or you can fill out the form/survey: https://forms.gle/dXAS3vqZsK4XtSw47",
+            "Ok. I can help you with DnD campaign creation. That is all that I can do at the current moment. Logan is working on it. Try typing \"help me with a DnD campaign.\" If you need another kind of help, directly from my developer, email Logan Alldredge at lalldredge7622@uinta1.org, or you can fill out the form/survey: https://forms.gle/dXAS3vqZsK4XtSw47"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

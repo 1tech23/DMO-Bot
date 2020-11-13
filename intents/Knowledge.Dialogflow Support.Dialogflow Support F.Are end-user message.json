@@ -1,0 +1,35 @@
+{
+  "id": "67a7e9d3-ee40-44ad-a56c-5c1639d5a40a",
+  "name": "Knowledge.Dialogflow Support.Dialogflow Support F.Are end-user message",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes.See encryption in transit.Data that passes through third party integrations may be handled differently. See the third party\u0027s terms of service, privacy policy, and security policy."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

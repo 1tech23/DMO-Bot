@@ -1,0 +1,42 @@
+{
+  "id": "bc28dc7e-0c2f-40e0-a946-b51049563780",
+  "parentId": "f79d8aca-c774-4667-9dd9-450dbb7505e1",
+  "rootParentId": "f79d8aca-c774-4667-9dd9-450dbb7505e1",
+  "name": "i need help - cancel",
+  "auto": true,
+  "contexts": [
+    "ineedhelp-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ineedhelp.ineedhelp-cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright.",
+            "Ok.",
+            "Canceling.",
+            "Canceled."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ccc281b2-53fb-4deb-a6d0-8ef1f7050c53",
+  "name": "Knowledge.Dialogflow Support.Dialogflow Support F.Why does the first r",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Authentication access tokens need to be refreshed when an API client is first used. See session client reuse to mimimize the delays. In addition, a cold agent that has not received recent requests may respond slower than a warm agent that is in active use. You can keep an agent warm by sending traffic to it periodically."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

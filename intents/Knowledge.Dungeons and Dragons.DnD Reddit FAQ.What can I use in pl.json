@@ -1,0 +1,35 @@
+{
+  "id": "ac8d4e3c-5c18-4df7-8794-052fcbdf5886",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.What can I use in pl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Coins, board game pieces, office supplies, and lego min-figs all make excellent substitutes for miniatures."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

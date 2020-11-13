@@ -1,0 +1,35 @@
+{
+  "id": "5e10805f-3df1-4c06-b08b-b1d1664b5e78",
+  "name": "Knowledge.Dungeons and Dragons.D\u0026D Beyond.How much storage spa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "How do I delete bookmarks on the app? Help! I received an error after purchase on the app! Help! I am having trouble logging into the app! Is there an app to download? How do I access this on my tablet or phone?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

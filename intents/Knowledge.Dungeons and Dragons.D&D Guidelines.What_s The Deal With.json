@@ -1,0 +1,35 @@
+{
+  "id": "9f4a2fc1-d280-44ec-897f-20bbd73c3abd",
+  "name": "Knowledge.Dungeons and Dragons.D\u0026D Guidelines.What\u0027s The Deal With",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I think there\u0027s two main things to note: This is a wiki. That means that anyone can edit (almost) any page. When you put your writing on a wiki, you are giving permission for it \"to be edited mercilessly and redistributed at will\" (as the edit page disclaimer puts it). The aim is to make content that anyone can drop into their regular D\u0026D game. It\u0027s not a repository for personal content solely for your own use. That means if something is unfair (by allowing a PC to much be more powerful than the PCs), it should be made balanced. If something is unclear or doesn\u0027t read well, it should be rewritten. If something unnecessarily contradicts the design standards in the core rulebooks, it should (as much as possible) be made to conform. One caveat is that we have sections for campaigns and sourcebooks that might be allowed to deviate somewhat. As for external perceptions of the wiki, two more notes: There are only a handful of editors who review other\u0027s work. That means that poor quality pages might be sitting on the wiki for years before someone gets round to dealing with it. In the meantime, you get groups laughing and pointing at it, instead of editing the page and trying to improve it (or at least leaving a constructive message). You don\u0027t even need an account, you just press \"edit\". On the other hand, when we do try quality control, we sometimes upset the original writer, who then bemoans \"the elitist admins of D\u0026D Wiki ruining the work of others\". In short, we can\u0027t win! All I can ask is that you have fun making or improving pages; if there\u0027s a change you don\u0027t like, revert it and explain why on the talk page, but take it on the chin if it gets reverted back."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "1c84f78d-4544-4b6c-b190-195790850a73",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.How do I make a char",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Read the Players Handbook for your edition of the game. Each edition uses different rules for character creation. If you need help, consider using a character builder program or asking a more experienced player in your group."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "f7120a0c-44f9-46eb-81e1-13f91192566c",
+  "name": "Knowledge.Dungeons and Dragons.D\u0026D Beyond.I published my homeb",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I published my homebrew, but now I want to make a change to it. Why can\u0027t I delete/edit the published version? Can I share my homebrew with others in my campaign, without submitting it as public homebrew? How long does it take my homebrew to be authorised? How do I publish my homebrew, so that others can see it?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

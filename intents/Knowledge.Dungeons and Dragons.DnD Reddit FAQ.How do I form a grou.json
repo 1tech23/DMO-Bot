@@ -1,0 +1,35 @@
+{
+  "id": "b35b9a5f-1c67-488a-a02b-2b9f7adc5fb9",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.How do I form a grou",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Click on the link for guidance: https://www.reddit.com/r/DnD/wiki/social_issues#wiki_forming_a_group"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "945118b5-3753-4f42-94ba-64d6c8b0ea3b",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.Where can I buy DnD ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Try the Wizards of the Coast Store Locator. You can also find DnD products in book stores, and in some comic and board game stores. If you prefer to shop online, you can purchase books from Amazon or the WotC website."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "99f5e9da-1857-49e7-8b92-381ced64e32c",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.How do I roleplay/wr",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Depending on the NPC and their place in the player\u0027s experience, this can require different amounts of work. A major NPC like the players\u0027 employer (quest giver, financial backer, slave master, etc.) needs a bit of detail. Who are they? What do they do, and why do they do it? What do they look like? Who are the major members of their social circle? You should have a passable answer to any obvious questions which the characters might ask about him. If the party\u0027s cleric asks \"what god does this guy worship?\" you should have a reasonable answer because in most DnD settings that\u0027s a defining personality trait. Minor NPCs which the players might encounter once or twice require less detail. The blacksmith that sold the fighter a replacement longsword probably needs little more detail than a job title. If you actually want to roleplay the interaction, you should provide a race, gender, age, and rough appearance. \"Portly, middle-aged human male with salt-and-pepper hair and a stubbly beard\" is likely sufficient. Players are unpredictable, so they often latch onto characters unexpectedly, which is where things get difficult. Random tables can be helpful here for generating things like quirks, habits, families, etc. or you can just make things up. Maybe the players want to commission that blacksmith to build a suit of full plate (which takes a very long time according to the 5e crafting rules), so they\u0027re going to see this guy a few times. The smith likely has a family of some sort, and almost definitely lives somewhere. Maybe the smith has a hobby which he likes to talk about. If the players like this character, they might be repeat customers, and you can expand the character over time as needed."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

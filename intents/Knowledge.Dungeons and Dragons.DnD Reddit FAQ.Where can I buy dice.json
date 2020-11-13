@@ -1,0 +1,35 @@
+{
+  "id": "b33d6842-0631-4fc1-a4b1-35f9af08f854",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.Where can I buy dice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can buy dice almost anywhere that sells DnD books (except book stores, generally). If you are purchasing a starter set, it will include dice. You can also get dice from companies like these: Game Science - High precision dice, but fairly expensive Chessex - Produces many of the dice you see in stores, and sells a pound of dice. Keep in mind that the pound of dice sometimes contains \"factory seconds\" (dice which aren\u0027t quite the right shape) Easy Roller Dice Co. - Similar to Chessex, and offers a comparably priced bulk dice order which gurantees full sets of factory first dice (no messed up dice)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "10d78980-5ade-47fd-a55a-8269bbefb116",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.How does the OGL wor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The OGL is a complex legal document. Your best bet is to consult a lawyer. The OneShot Podcast brought in a lawyer who provided some explanation in plain terms which help to clarify the license."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

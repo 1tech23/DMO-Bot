@@ -1,0 +1,35 @@
+{
+  "id": "1f8c937c-abdd-4839-9454-2f09a1192f4c",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.How many players sho",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "DnD is balanced from 4-6 players (not counting the DM). Fewer players presents some challenges but can offer interesting opportunities, and even single player campaigns can be very fun. Groups with 7 or more players are extremely difficult to run, so it\u0027s often best to come up with a way to reduce the size of the party. Oversized Parties Single-Player Campaigns"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

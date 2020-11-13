@@ -1,0 +1,35 @@
+{
+  "id": "9f9020fb-90bc-4c96-8ac7-7bb25bf62b7c",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.How much does DnD co",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That varies wildly. Out of print editions can be very expensive, but you can play Pathfinder and the \"Basic\" version of 5th edition for free. If you plan to buy all three of the core rulebooks, it will cost a little over $100 US, plus the cost of dice. This may seem like a lot, but considering that you can use the same set of books for the rest of your life, it\u0027s a good investment."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

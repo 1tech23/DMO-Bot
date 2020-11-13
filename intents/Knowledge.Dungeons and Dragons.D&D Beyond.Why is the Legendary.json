@@ -1,0 +1,35 @@
+{
+  "id": "f09b6676-4773-4506-bfa7-b43ae11478a3",
+  "name": "Knowledge.Dungeons and Dragons.D\u0026D Beyond.Why is the Legendary",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What is Compendium Content and how is that different to the full Sourcebook? Are the digital sourcebooks available offline? Will there be an additional charge for the mobile application? I can\u0027t afford all of the books I would like immediately - will there be discounted sales later?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

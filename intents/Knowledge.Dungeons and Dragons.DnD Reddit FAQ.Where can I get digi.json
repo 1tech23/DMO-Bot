@@ -1,0 +1,35 @@
+{
+  "id": "c90acbd2-6673-4e66-ad6f-39401a4ee80a",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.Where can I get digi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Currently WotC does not sell 5th edition content in any digital format. If you find digital copies of 5th edition rulebooks or adventures, they are illegal duplications of the books. If you want digital copies of the rules, consider using the basic rules or the SRD, both of which are free and serve as excellent reference documents. PDF copies of previous editions are available on DMsGuild.com."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

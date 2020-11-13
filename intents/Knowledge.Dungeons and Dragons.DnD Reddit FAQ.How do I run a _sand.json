@@ -1,0 +1,35 @@
+{
+  "id": "87dd1e45-4a5f-4206-921d-a8c51630c33a",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.How do I run a \"sand",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "An open, unexplored area is a blessing in disguise. Many DM\u0027s attempt to \"build the world\", detailing every nook and cranny of everywhere that the players could possibly go. This works in video games where you can drop and NPC in a house with two or three lines of dialog, but in a tabletop RPG it\u0027s an exercise in madness. Instead of building everything, but a few interchangeable \"set pieces\": generic locations, objects, or events which you can drop in wherever you need them. The \"color animal inn\" is a great example that I stole from a podcast (I think it was \"Fear the Boot\"). It\u0027s generic enough that no one really cares, and you can fill in the details easily. If the players go to the docks, it might be the \"blue fish pub\". If they go to the noble district it\u0027s the \"gold finch tavern\". Or you can go my route and it\u0027s actually called the \"color animal inn\"."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

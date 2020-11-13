@@ -1,0 +1,35 @@
+{
+  "id": "f9eeff7b-e524-4787-a253-a0408c985b7e",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.Is there an /r/DnD D",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No. We have experimented with other social media channels, but none have gained enough traction to justify maintaining them."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

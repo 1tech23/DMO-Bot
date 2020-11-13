@@ -1,0 +1,35 @@
+{
+  "id": "af6f8aec-9f59-48a5-b101-453ee933bd05",
+  "name": "Knowledge.Dungeons and Dragons.D\u0026D Guidelines.What are \"Narrative ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Durations in 5e serve a narrative purpose. \"1 minute\" is shorthand for \"about the length of one combat\". \"10 minutes\" is shorthand for \"a short period of time not in combat\". You would never have a duration of \"4 rounds\" or \"10 rounds\". Most combat encounters last 4 to 6 rounds: use 1 minute. Similarly, you wouldn\u0027t have a feature that reduces ritual casting from 10 minutes to 1 minute. There isn\u0027t much narrative difference between a 1 minute casting time and a 10 minute casting time: neither can happen in combat, and they are both less than the next step, 1 hour. And again, durations such as 30 minutes, 4 hours should not be used. Use 1 hour (a bit of a day) or 8 hours (most of the day). I shouldn\u0027t have to point this out, but I\u0027ve seen editors do this, there should be no durations measured in seconds."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4caafad2-b5a3-4650-a646-2e2f7061f3af",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.When awarding experi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Experience is divided among the party members. In 3.5 party members may receive slightly more or less experience if they are a different level from other members of the party (see the DMG). In 4e and 5e, experience is divided evenly among party members regardless of their level."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

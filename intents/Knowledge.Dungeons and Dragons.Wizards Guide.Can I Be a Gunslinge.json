@@ -1,0 +1,35 @@
+{
+  "id": "db904747-d1ed-4728-9cb8-83456f3052cc",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Can I Be a Gunslinge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For character options that do not appear in the official rulebooks (the Player’s Handbook, Xanathar’s Guide to Everything, etc.), you are looking at what is called “homebrew”. Some options have already had rules designed by other players, but you or your Dungeon Master may choose to make the rules yourself. It is up to your DM whether or not you can take a homebrew option. While we at Dungeon Master’s Workshop strive to provide quality homebrew, we encourage you to carefully examine homebrew you find online because, unfortunately, a lot of it is terrible. In particular, we strongly recommend staying as far away as possible from dandwiki if you are a first-time homebrewer. If you can’t find an option here (you can search our website using the search bar on the right), we suggest that you check out Dungeon Masters Guild, the official third-party content store for Dungeons \u0026 Dragons (we even have a few options available there, like the Blood Mage prestige class). Most options you can find either here or on Dungeon Masters Guild have reviews that can indicate their quality."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

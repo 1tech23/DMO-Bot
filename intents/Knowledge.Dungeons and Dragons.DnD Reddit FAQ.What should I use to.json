@@ -1,0 +1,35 @@
+{
+  "id": "f8f9d1b5-8398-4104-ba03-90cc11f0de8d",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.What should I use to",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are several solutions, each of which has pros and cons. Use whatever solution best fits your needs. Dungeon Tiles Dungeon tiles range in design from flat cardboard to full 3d models of dungeon features. Pros: Really fast to set up and tear down. No drawing required. Cons: You\u0027re restricted to a set number of shapes. If you want more shapes, you need to buy more stuff. Even then, you probably can\u0027t get exactly the shape you want in the style you want 100% of the time. This can be mitigated by designing dungeons to fit your collection of tiles, but that\u0027s a frustrating restriction. Dry-erase mats Chessex made the first widely-embraced dry-erase mat for tabletop RPGs, but they are now available from a wide variety of companies. They\u0027re typically reversible, with one side showing a square grid and the other a hex grid. Pros: Re-usable, portable, and doesn\u0027t take up a lot of space. Cons: Expensive. They can stain if you leave marker on them for too long, and some colors can be difficult to remove fully (mine has some long-standing red smears, though I\u0027ve heard rubbing alcohol might remove them and haven\u0027t been brave enough to try). Generally a DM will only have one, so you spend a lot of time erasing and drawing maps, which becomes especially frustrating with detailed areas or when players move between areas quickly. 1-inch gridded paper Similar in function to the dry-erase mat, but disposable. My personal favorite. Pros: Cheap and disposable. You can draw a sheet for each area and shuffle them in and out as needed. Let your players write notes on them. Draw blood splatter, collateral damage, etc. Spill food/drink on them, then throw them away at the end of the session. Cons: Paper isn\u0027t durable so it can be hard to keep maps in good condition between sessions. Be sure to store them carefully. Digital map roll20, fantasy grounds, or a projector pointed at a screen. Pros: Versatile and often requires little or no physical storage. Works great when playing with remote players. Cons: Can be difficult to set up. Projectors and screens can be expensive. Bringing computers to the table introduces a big source of distractions. Theater of the mind You technically don\u0027t need a grid to play (except in 4e). Pros: Free. Can be very theatrical and fast-paced with a bit of practice. Especially great for less combat-oriented groups. Cons: You lose much of the precise tactical aspects of combat, which some players don\u0027t enjoy."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

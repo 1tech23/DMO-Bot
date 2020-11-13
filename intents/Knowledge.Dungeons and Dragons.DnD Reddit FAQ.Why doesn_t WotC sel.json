@@ -1,0 +1,35 @@
+{
+  "id": "584bd402-f7ff-4be7-92e5-2a04e852e033",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.Why doesn\u0027t WotC sel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Unknown. The general assumption most people make is that WotC (or its parent company, Hasbro) believes that not distributing digital copies will combat piracy. It\u0027s also possible that WotC is trying to encourage people to buy physical copies from their local game store."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

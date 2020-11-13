@@ -1,0 +1,35 @@
+{
+  "id": "14626654-dd6b-4643-acaf-c82e9f9253c7",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Can [Insert Race] Be",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes. There are no racial restrictions on classes. A half-orc or a lizardfolk can become a wizard, an elf or a halfling can be a barbarian, etc. The only exception to this is certain subclasses like the Path of the Battlerager or the Bladesinger Arcane Tradition (Sword Coast Adventurer’s Guide), which are normally restricted to certain races except where the DM decides that restriction does not apply (perhaps because you are not playing in the Forgotten Realms campaign setting)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b8319959-717f-4509-a351-b46020003cdd",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.Where can I buy mini",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your FLGS should have a nice supply of miniatures from various manufacturers. The official DnD miniatures are produced by WizKids, and they come pre-painted. Reaper is generally the gold-standard of unpainted tabletop miniatures that aren\u0027t built for any specific game. For an expanded list, see the subreddit gift guide"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

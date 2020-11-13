@@ -1,0 +1,35 @@
+{
+  "id": "07a911a4-39fc-4204-b9b7-971314d3c8eb",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.How do I encourage p",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can\u0027t force players to play any particular way, and the issues preventing players from roleplaying are unique to each player. Part of the issue is often the player\u0027s comfort level. Assuming the role of another person can be uncomfortable for some people (first-person roleplaying). If your players aren\u0027t comfortable speaking in first person, encourage them to try \"third-person\" roleplaying. Instead of the player saying \"I approach the smith and ask to see his wares\", they might say \"Gulgar approaches the smith, and explains that he is looking for a new longsword\". Third-person roleplaying is a bit more emotionally detached, which can make some players more comfortable. This is a personal choice that every player needs to make every time they roleplay (even if they don\u0027t make it consciously), and bringing the decision to light can help inform their choices. This also might be an issue of play style. Some players don\u0027t care for deep roleplaying, and prefer the hack-and-slash aspects of the game. There\u0027s absolutely nothing wrong with this: you just need to understand the group\u0027s expectations and preferences."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e6592d05-2c89-476b-ae45-565749711294",
+  "name": "Knowledge.Dungeons and Dragons.D\u0026D Guidelines.What is \"Round-Count",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In 3rd edition (and earlier), many effects lasted for a number of rounds. For example, something might be said to last \"1d6 rounds\", or \"1 round/level\". The problem here is that if there are many effects in play, you now have the added paperwork of tracking how many rounds each effect has lasted for: what I call \"round-counting\". This was designed out of D\u0026D in 4th and 5th edition, such that an effect\u0027s end condition is checked for each round: no logging is required. For example, 3rd edition slow lasts for 1 round/level. 5th edition slow has affected creatures repeat the saving throw at the end of their turn. If a feature is expected to last for a good portion of a combat encounter, in 4th edition it might simply last the length of the encounter; in 5th edition we say it lasts for 1 minute. Similarly, if you have the urge to write \"1 minute/level\" or \"1d6 minutes\", in 5th edition it should be \"10 minutes\". The same principle applies to features that require a cooldown. Instead of \"it can be used again in 1d6 rounds\", a powerful monster\u0027s attack in 4e or 5e might have a Recharge: a die roll made at the start of its turn that determines if its usable again."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

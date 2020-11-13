@@ -1,0 +1,35 @@
+{
+  "id": "fb96ecbf-ad7f-4582-972d-f8295735835b",
+  "name": "Knowledge.Dungeons and Dragons.D\u0026D Guidelines.Why Should Ability S",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The odd numbers for prerequisites has been a WotC standard since 3rd edition. Disregarding odd numbers, only even-numbered ability scores are relevant, since only they contribute towards a modifier (the actual game statistic). By making odd numbers matter for prerequisites, it makes an increase to any ability score value desirable."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

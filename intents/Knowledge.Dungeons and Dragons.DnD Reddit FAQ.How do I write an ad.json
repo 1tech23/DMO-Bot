@@ -1,0 +1,35 @@
+{
+  "id": "dd007ab8-4cdf-4471-aeba-14083e672341",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.How do I write an ad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Writing an adventure is more art than science, but start by reading the New DM Guide for some basic help with DMing."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

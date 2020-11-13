@@ -1,0 +1,35 @@
+{
+  "id": "c98fed15-9b20-42aa-b698-742459e968f5",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.Can I play DnD onlin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes. Several services exist to play online: Roll20 Fantasy Grounds 3D Virtual Tabletop d20 Pro RPTools Tabletop Simulator Power VTT Battlegrounds GM Forge Shmeppy"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

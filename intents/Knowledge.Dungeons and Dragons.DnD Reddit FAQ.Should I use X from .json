@@ -1,0 +1,35 @@
+{
+  "id": "b9cd27f7-64db-4a2a-aefb-0d4b25a35fdb",
+  "name": "Knowledge.Dungeons and Dragons.DnD Reddit FAQ.Should I use X from ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No. DanDwiki is widely reviled by /r/DnD for every good reason. The site is a mess of totally unbalanced homebrew, it does a poor job distinguishing between SRD content and homebrew, and it often fails to specify what edition the content is for, making it hugely difficult to use and navigate."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

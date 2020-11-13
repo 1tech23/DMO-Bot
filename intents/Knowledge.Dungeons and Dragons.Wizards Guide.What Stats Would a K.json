@@ -1,0 +1,35 @@
+{
+  "id": "850efdc9-1a2d-45ac-bd0f-741401cce204",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.What Stats Would a K",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The same stats as a longsword. This is covered in the Dungeon Master’s Guide, page 41. Before we are inundated with amateur swordmasters trying to make a case for different (read: superior) stats: No, a katana is not superior to a longsword. In fact, it is objectively worse when fighting an armoured opponent. Yes, we know about steel folding. We actually know more about it than you probably do. The reason a katana gets folded about 8 times (not 1,000 times, as that would cause too much carbon diffusion and leave you with a Play-Doh sword) is because Japan has poor-quality iron (tamahagane) that needed extra refinement so swords didn’t simply shatter on impact. In the West, tamahagane was called “pig iron” and no swordsmith would ever have polluted his products with it when he could use perfectly good materials that don’t need to be folded. The poor quality of Japanese iron also meant that it was completely impractical to fashion metal armour, and so katanas were not designed to defeat heavily armoured foes because they were not commonly encountered on the battlefield. Against even a poor harness of European plate armour, a katana’s blade would bend or break rather than slice or thrust through. Ultimately, this discussion is irrelevant because Fifth Edition attempts to streamline combat rather than complicate it. Mechanically, a katana is similar to a longsword in settings where it is commonly encountered, and so you should use the longsword stats. It works out better for you this way, trust me."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

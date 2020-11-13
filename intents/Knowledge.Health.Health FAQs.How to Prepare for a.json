@@ -1,0 +1,35 @@
+{
+  "id": "b7310857-e43c-4d32-95e3-be30f3a3e409",
+  "name": "Knowledge.Health.Health FAQs.How to Prepare for a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Going to the dentist regularly is an important part of staying healthy and proactively avoiding cavities, gum disease, enamel wear, and more. When preparing for a dentist appointment, there are some deta... More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "9e41c999-39c2-46fb-9911-1264aa557576",
+  "name": "Knowledge.Health.Health FAQs.Why Should I Make an",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you or your child have symptoms that are acute enough to seek immediate care but not so severe that you need to spend hours (and hundreds of dollars) at the emergency room, you’ll likely want to head t... More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "17686b07-470b-4298-9c72-a1e0eeb6c6ee",
+  "name": "Knowledge.Health.Health FAQs.How Often Should You",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your teeth are a dynamic part of your body and need consistent care – part of that care is making sure you’re visiting the dentist. But what are the guidelines around how often you should go to the dentist? Routine Appointments Regular dentist appointments focus on preventative care. According ... + More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

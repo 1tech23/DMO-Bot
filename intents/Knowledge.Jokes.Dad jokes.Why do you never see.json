@@ -1,0 +1,39 @@
+{
+  "id": "58e37ed1-3641-469d-b359-a6f8566b2c9e",
+  "name": "Knowledge.Jokes.Dad jokes.Why do you never see",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "A furniture store keeps calling me. All I wanted was one night stand. I used to work in a shoe recycling shop. It was sole destroying. Did I tell you the time I fell in love during a backflip? I was heels over head. My wife is really mad at the fact that I have no sense of direction. So I packed up my stuff and right. Did you hear about the restaurant on the moon? Great food, no atmosphere. When does a joke become a dad joke? When it becomes apparent! What do you call a fake noodle? An Impasta.",
+            "Because they\u0027re so good at it."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

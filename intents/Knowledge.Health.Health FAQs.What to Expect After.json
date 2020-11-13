@@ -1,0 +1,35 @@
+{
+  "id": "f2f9024f-ba02-4de1-90c1-01073ef95ee0",
+  "name": "Knowledge.Health.Health FAQs.What to Expect After",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It’s definitely not the most pleasant of procedures, but sometimes a tooth extraction is necessary. An extraction may be needed because of gum disease, tooth decay, trauma to the mouth, or other conditions. Whatever the reason, you’ll want to understand the procedure and know what to expect aft... + More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "05fce7a8-5f09-424d-af8e-b30ec2306d2c",
+  "name": "Knowledge.Health.Health FAQs.Are Urgent Care Cent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Many people worry that urgent care centers might be more expensive than emergency rooms or traditional medical care. However, this is simply not the case. Here is a brief rundown of the expenses patients w... More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

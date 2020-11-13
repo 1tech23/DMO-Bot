@@ -1,0 +1,35 @@
+{
+  "id": "c9275ee6-30ad-4709-b072-094d95bc67ea",
+  "name": "Knowledge.Health.Health FAQs.Urgent Care vs. Prim",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Does this sound familiar? “Should I just go to my regular doctor?” You went to work today but you feel sick. You aren’t really sure how sick you are (who knows, maybe it’s allergies?) and you deci... More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

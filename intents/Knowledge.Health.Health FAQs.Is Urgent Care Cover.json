@@ -1,0 +1,35 @@
+{
+  "id": "6675652a-52c4-4a3e-82a6-032e52f31da7",
+  "name": "Knowledge.Health.Health FAQs.Is Urgent Care Cover",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you are in need of urgent medical care, you might wonder if urgent care centers accept your insurance. In the case of Medicare, this issue can be a little tricky. Here are the basic facts about urgent c... More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

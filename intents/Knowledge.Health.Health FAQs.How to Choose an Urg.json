@@ -1,0 +1,35 @@
+{
+  "id": "80195e6d-4c15-4595-947d-6a52f3d3ad45",
+  "name": "Knowledge.Health.Health FAQs.How to Choose an Urg",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "When an unexpected health issue comes up, you have the choice between going to your primary doctor, the emergency room, and urgent care. Which you choose largely depends on what kind of care you need. If ... More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

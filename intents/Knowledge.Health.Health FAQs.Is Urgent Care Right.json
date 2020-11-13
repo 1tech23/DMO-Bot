@@ -1,0 +1,35 @@
+{
+  "id": "7abccc9f-9fbf-4c97-ba67-aab866bfea00",
+  "name": "Knowledge.Health.Health FAQs.Is Urgent Care Right",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Before you and your family choose urgent care for your next medical treatment, you should consider if it is right for you. Here are the basic facts about urgent care that you should know. Urgent Care Ser... More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

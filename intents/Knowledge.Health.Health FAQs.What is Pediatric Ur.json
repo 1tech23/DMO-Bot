@@ -1,0 +1,35 @@
+{
+  "id": "9c301432-e050-4e35-b3ed-660f90c241d4",
+  "name": "Knowledge.Health.Health FAQs.What is Pediatric Ur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Most pediatrician offices are only open 9-5 on weekdays. So for those late-night fevers or nasty weekend scrapes, many worried parents head to the emergency room. But oftentimes, that’s not the best course o... More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

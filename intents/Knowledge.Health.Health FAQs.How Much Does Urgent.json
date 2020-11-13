@@ -1,0 +1,35 @@
+{
+  "id": "358793dc-4559-47a8-a394-4b7693883d08",
+  "name": "Knowledge.Health.Health FAQs.How Much Does Urgent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We all know that convenience costs more. For example, buying a container of pre-washed, chopped vegetables often costs double to triple the amount that buying the vegetable whole does. Retailers know ... More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

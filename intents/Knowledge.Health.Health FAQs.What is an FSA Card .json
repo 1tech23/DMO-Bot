@@ -1,0 +1,35 @@
+{
+  "id": "5f5333a0-cabb-4f12-8aa9-c222174ef83c",
+  "name": "Knowledge.Health.Health FAQs.What is an FSA Card ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Let’s be honest – wouldn’t it be great to stretch your dollar farther when it comes to health and medical expenses? That’s where a Flexible Spending Account (or Arrangement) – commonly known as an FSA – is an excellent benefit to take advantage of. For those who have an employer that offers th... + More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

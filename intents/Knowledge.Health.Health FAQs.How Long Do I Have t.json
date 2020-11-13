@@ -1,0 +1,35 @@
+{
+  "id": "f87207d5-3b62-430b-aee1-87f9457edfbe",
+  "name": "Knowledge.Health.Health FAQs.How Long Do I Have t",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Wait times in the urgent care center can vary. Depending on the number of people waiting and the severity of sickness or illness, the wait can be as little as a few minutes or as long as a few hours. That sa... More"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

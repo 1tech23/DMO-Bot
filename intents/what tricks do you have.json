@@ -1,0 +1,46 @@
+{
+  "id": "ecce3291-d6dc-4ff4-8fbe-39696478771f",
+  "name": "what tricks do you have",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Try typing \"remind me about my appointment at noon tomorrow\"",
+            "Try typing \"who created you\"",
+            "Try typing \"hehe\"",
+            "Try typing \"survey\"",
+            "Try typing \"survey2\"",
+            "Try typing any question about the Hitchhiker\u0027s Guide to tho Galaxy.",
+            "Try typing \"what does 42 mean\"",
+            "Try typing any question you may have about Dungeons and Dragons. I now have the knowledge to answer any of those questions.",
+            "Try typing any question you may have about an Android device. This will trigger the FAQs section on Android Forums",
+            "Try typing any question that you can think of about Ubuntu Linux.",
+            "Ask any questions you may have about the Apple iPhone",
+            "Ask any questions you may have about the Apple Macbook"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

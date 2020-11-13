@@ -1,0 +1,35 @@
+{
+  "id": "224f3a03-1e1e-4982-a336-1763a2a4550d",
+  "name": "Knowledge.WWI.nmarchive.Will I find a soldie",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Officers are frequently named in the diaries, from the date they arrived to join the unit, through times when they went on leave or to hospital, and often to coming a casualty. They also often feature in operational orders, after-action reports or when they were given special awards. The same is not generally true of men of the \u0027other ranks\u0027, although the diaries vary in this aspect. Some mention almost every man that became a casualty or who was given an award; others barely even mention the officers. If you have a soldier and know details of dates, it helps \u0027home in\u0027 on the period of interest. Tip: go up a level You will often find the war diary of a unit to be rather restricted in the details it gives – after all, it had only a narrow view of the war and was recording its own activities. If you go up a level (for example from an infantry battalion diary up to the brigade under whose command it came) you will often find much better contextual description, and more maps and orders. The higher diaries sometimes also mention gallantry and other awards that do not appear in the diaries lower down."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

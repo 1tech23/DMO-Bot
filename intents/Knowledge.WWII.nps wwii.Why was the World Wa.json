@@ -1,0 +1,35 @@
+{
+  "id": "3b7ac420-abb1-4d29-b08c-83e0fe0277cb",
+  "name": "Knowledge.WWII.nps wwii.Why was the World Wa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The question of location is answered partly by the inscription on the massive granite Announcement Stone facing 17th Street, HERE IN THE PRESENCE OF WASHINGTON AND LINCOLN, ONE THE EIGHTEENTH CENTURY FATHER AND THE OTHER THE NINETEENTH CENTURY PRESERVER OF OUR NATION, WE HONOR THOSE TWENTIETH CENTURY AMERICANS WHO TOOK UP THE STRUGGLE DURING THE SECOND WORLD WAR AND MADE THE SACRIFICES TO PERPETUATE THE GIFT OUR FOREFATHERS ENTRUSTED TO US: A NATION CONCEIVED IN LIBERTY AND JUSTICE. As to why the memorial was built at all, refer to the quotation by President Harry S Truman found next to the Freedom Wall, OUR DEBT TO THE HEROIC MEN AND VALIANT WOMEN IN THE SERVICE OF OUR COUNTRY CAN NEVER BE REPAID. THEY HAVE EARNED OUR UNDYING GRATITUDE. AMERICA WILL NEVER FORGET THEIR SACRIFICES."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

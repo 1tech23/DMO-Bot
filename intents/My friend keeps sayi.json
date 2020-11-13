@@ -1,0 +1,39 @@
+{
+  "id": "c1a0c459-5d93-44ea-a3fd-33f105672522",
+  "name": "My friend keeps sayi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What time did the man go to the dentist? Tooth hurt-y! I just watched a program about beavers. It was the best dam program I\u0027ve ever seen. Why did the coffee file a police report? It got mugged. I ordered a chicken and an egg from Amazon. I’ll let you know. How does a penguin build it\u0027s house? Igloos it together. What did the fried rice say to the shrimp? Don\u0027t wok away from me. Dad, did you get a haircut? No, I got them all cut. The secret service isn\u0027t allowed to yell \"Get down!\" anymore when the president is about to be attacked. Now they have to yell \"Donald Duck!\" Two cannibals are eating a clown. One says to the other: “Does this taste funny to you?” Why did the scarecrow win an award? Because he was outstanding in his field. What do you call a man who can’t stand? Neil. I’m thinking about removing my spine. I feel like it’s only holding me back. Why don\u0027t skeletons ever go trick or treating? Because they have no body to go with. How do you make a tissue dance? You put a little boogie in it. What do you call an elephant that doesn\u0027t matter? An irrelephant.",
+            "My friend keeps saying \"cheer up man it could be worse, you could be stuck underground in a hole full of water.\" I know he means well."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

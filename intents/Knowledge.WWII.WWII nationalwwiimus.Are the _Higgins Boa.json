@@ -1,0 +1,35 @@
+{
+  "id": "ee1b4a2f-3f6e-46e4-9def-5f679b42b800",
+  "name": "Knowledge.WWII.WWII nationalwwiimus.Are the \"Higgins Boa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Less than 10 original LCVPs or “Higgins Boats” are known to exist today. The Museum’s LCVP was built by volunteers, many of whom were Higgins employees, from the original plans and contains some original parts like the ramp and the engine. Our LCP(L) is an original Higgins built craft. It was restored to original condition by our volunteers, many of whom also helped build the LCVP. PT-305 is also an original Higgins built PT boat. It is the world\u0027s only fully restored, operational, combat veteran PT boat and you can book a ride or a deck tour today."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

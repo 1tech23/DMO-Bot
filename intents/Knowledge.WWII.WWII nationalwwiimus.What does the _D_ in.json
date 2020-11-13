@@ -1,0 +1,35 @@
+{
+  "id": "8c6cf568-c998-4b10-b6aa-9fcf72e7af17",
+  "name": "Knowledge.WWII.WWII nationalwwiimus.What does the \"D\" in",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The answer, like many answers in the field of history, is not so simple. Disagreements between military historians and etymologists about the meaning of D-Day abound. Here are just two explanations: In Stephen Ambrose\u0027s D-Day, June 6, 1944: The Climactic Battle of World War II, he writes, \"Time magazine reported on June 12 [1944] that \"as far as the U.S. Army can determine, the first use of D for Day, H for Hour was in Field Order No. 8, of the First Army, A.E.F., issued on Sept. 20, 1918, which read, \u0027The First Army will attack at H-Hour on D-Day with the object of forcing the evacuation of the St. Mihiel salient.\u0027\" (p. 491) In other words, the D in D-Day merely stands for Day. This coded designation was used for the day of any important invasion or military operation. For military planners (and later historians), the days before and after a D-Day were indicated using plus and minus signs: D-4 meant four days before a D-Day, while D+7 meant seven days after a D-Day. Learn more about D-Day here."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

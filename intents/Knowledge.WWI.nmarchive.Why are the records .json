@@ -1,0 +1,35 @@
+{
+  "id": "2fe12fd2-64d2-44b1-9cb5-07d473e367b0",
+  "name": "Knowledge.WWI.nmarchive.Why are the records ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please see \u0027Historical Questions: Soldiers Died in the Great War 1914-19\u0027. A similar situation applies to the World War II records."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "eda8d854-6405-4892-8d1e-74d5a6221fbb",
+  "name": "Knowledge.WWII.nps wwii.Can I borrow a wheel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes, a limited number of wheelchairs are available on a first come, first served basis for use while at the World War II Memorial. There is no cost, but a valid driver’s license is required and will be held until the wheelchair is returned. Please note that available wheelchairs are to be used only while visiting the World War II Memorial. Each of the other National Mall and Memorial Parks sites staffed by National Park Service rangers has wheelchairs available for public use while at that site."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

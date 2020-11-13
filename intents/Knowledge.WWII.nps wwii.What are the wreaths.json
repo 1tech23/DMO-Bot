@@ -1,0 +1,35 @@
+{
+  "id": "883e437a-5f66-4148-ad6d-6736937b9f62",
+  "name": "Knowledge.WWII.nps wwii.What are the wreaths",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are two wreaths for each pillar; one on the front and one on the back. Each pillar has both, but they alternate from side to side for variety. The wheat wreath represents agriculture and the oak wreath represents industry. This symbolizes the fact that not only did the states and territories give their citizens to serve in the military, they also offered their resources and the fruits of their labor to the cause of victory. Without the hard work, sacrifice, and support of the home front, success on the battlefront was impossible."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

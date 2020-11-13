@@ -1,0 +1,35 @@
+{
+  "id": "7ff35b10-3dfb-46e5-8e62-7c81a16bf90f",
+  "name": "Knowledge.WWI.nmarchive.Which War Diaries ar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The War Diaries included in this collection are for units within British and Indian Divisions on the Western Front during the Great War. That includes headquarter diaries for each division and brigade, all fighting and pioneer battalions, other units actually under the direct command of divisions or brigades such as trench mortar and machine gun batteries, field artillery and related ammunition columns, Royal Engineer and signal companies, field ambulances and divisional trains. Cavalry Divisions are likewise also included."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

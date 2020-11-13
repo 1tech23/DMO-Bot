@@ -1,0 +1,39 @@
+{
+  "id": "9bbd817d-a95e-43c0-8f99-597f8f7fb0ad",
+  "name": "muchas gracias",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027re very welcome.",
+            "Anytime.",
+            "Don\u0027t mention it.",
+            "You\u0027re welcome.",
+            "De nada."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

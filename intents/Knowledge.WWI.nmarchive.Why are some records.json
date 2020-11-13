@@ -1,0 +1,35 @@
+{
+  "id": "10d27722-ca9e-44c6-8995-5f30f455f527",
+  "name": "Knowledge.WWI.nmarchive.Why are some records",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Apparent duplication or incorrect positioning of entries throughout this website mirrors the original 1921 printed works. For example, every battalion of the London Regiment was affiliated to another regiment of the Army. In some instances, the names of soldiers who enlisted in the London Regiment, but who died while serving in units of affiliated regiments, will be found in the rolls of the affiliated regiments and vice versa. The regiments concerned are: Royal Fusiliers (City of London), King\u0027s Royal Rifle Corps, Rifle Brigade, Middlesex Regiment, Royal West Kent Regiment, East Surrey Regiment, Royal West Surrey Regiment, Gordon Highlanders and Royal Irish Rifles. Officers attached to other units will often have an entry under both named units in Officers Died. It is noticed that this especially applies to those attached to the Royal Flying Corps, Tank Corp and Machine Gun Corp. The decorations shown in cases of duplication are not always identical, perhaps because either the parent regiment or that which the officer was attached to did not have up-to-date information."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

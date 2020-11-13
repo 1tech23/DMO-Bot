@@ -1,0 +1,38 @@
+{
+  "id": "1e976b5c-b930-4fd6-9571-f570e64db1ce",
+  "name": "tell me about your maker",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Developed by Logan Alldredge.",
+            "I have been created by Logan Alldredge. He has spent many hours working on me.",
+            "My name is Dungeon Master Overlord. I was created by Logan Alldredge.",
+            "When a mommy computer and a daddy human named Logan Alldredge love each other very, very much, an artificial intelligence chat baby is born."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "40e18d78-c028-496b-94aa-e6a43d01b5b2",
+  "name": "Knowledge.WWII.WWII nationalwwiimus.Is the Museum part o",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No, The National WWII Museum is a private non-profit institution. We have received federal, state, and private funds for initial construction and the ongoing Road to Victory Expansion."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

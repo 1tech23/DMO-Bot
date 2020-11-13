@@ -1,0 +1,35 @@
+{
+  "id": "d07ebb08-f86d-49c4-9a9b-12c8342ea3fb",
+  "name": "Knowledge.WWII.nps wwii.What is the meaning ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Inside each victory pavilion is a sculptural canopy called a baldacchino. These baldacchinos are actually four eagles holding a laurel victory wreath suspended above an enlarged victory medallion set into the floor below. The eagle is the symbol of the United States of America. The laurel wreath is a symbol of victory going back to ancient Greece. So, the sculptures symbolize American victory in the Atlantic and in the Pacific theaters. The eagles have wingspans of 11 feet and are perched on columns 18 feet tall. Each of the laurel wreaths weighs 5,000 pounds and was designed by Ray Kaskey of Maryland."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

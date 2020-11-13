@@ -1,0 +1,35 @@
+{
+  "id": "66ce02d7-01d7-4a81-b99c-25fc1ddab2ae",
+  "name": "Knowledge.WWII.WWII nationalwwiimus.I want to tour Norma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please look into our D-Day Tours or find out more about other World War II travel packages. With three hundred seventy-five miles of beaches, cliffs, farming villages and ports, Normandy is a contrasting landscape of ancient fortresses and castles, ruined monasteries, and rolling farmland replete with memories of World War II and scarred with evidence of the Allied D-Day invasion of June 6, 1944. While there are many faces of Normandy, here are some basic suggestions for those travelers wishing to visit D-Day-related sites Top Sites (from east to west): Pegasus Bridge. Located on the Caen Canal, this key bridge was captured by British airborne troops in the early morning hours of D-Day, helping to secure the eastern flank of the invasion. Although the original bridge was taken down in 1994, a museum marks the site of this crucial coup de main operation. “The Memorial and Museum of Peace.” Caen’s Battle of Normandy Museum offers guided tours of the landing beaches (British and American) along with a pass to the memorial. Caen is the site of the British breakout through German lines. WWII Museum at Bayeux. While this town’s chief attraction is its 11th century tapestry honoring William the Conqueror’s victory at Hastings in 1066, the Musée Mémorial de la Bataille de Normandie 1944 paints a vivid picture of the Allied invasion and campaign in Normandy. Arromanches. See the remnants of Mulberry B, one of two huge artificial harbors the Allies towed to Normandy from England. The Museum here has a great model, showing how the structure worked. Omaha Beach. One of two beaches attacked by American forces on D-Day (the other is Utah Beach). Located near the town of St. Laurent, Omaha Beach was the bloodiest of the D-Day beaches. You can still see remnants of one of the Mulberries, or artificial harbors, the Allies built to support the invasion. American Military Cemetery at St. Laurent. Stretching across the bluff overlooking Omaha Beach, the rows of white marble crosses and stars commemorate the men who died fighting for the Allied victory in Normandy. A must see. Pointe-du-Hoc. The elite US Rangers scaled this 40-meter high cliff between Omaha and Utah beaches to neutralize a dangerous German gun battery. Check out the cliffs, the ruins of German bunkers, the bomb craters, and see if they were successful. St.-Lô. In the town where the Americans finally broke through the German lines, the Holy Cross Church is home to a memorial to Maj. Thomas Howie, who had vowed to be the first American in St.-Lô. He was killed shortly before his troops took the city. Utah Beach. The area around Utah Beach contains monuments, abandoned tanks, and pillboxes— reminders of D-Day. The Musée du Débarquement, near La Madeleine, is located in a German bunker, and offers striking accounts of the battle for Normandy. Ste-Mère-Eglise. In this town taken by the US Airborne on D-Day, the Musée des Troupes Aéroportées includes photos, a glider, and parachutes commemorating the morning of June 6, 1944 when American paratroopers dropped over the town to secure the western flank of the invasion. Recommended Travel Books: The Visitor\u0027s Guide to Normandy Landing Beaches by Holt, Tonie and Valmai AAA Essential Normandy: All You Need to Know by Nia Williams Insight Compact Guide: Normandy by Manfred Braunger A Traveler\u0027s Guide to D-Day and the Battle for Normandy by Carl Shilleto and Mike Tolhurst"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

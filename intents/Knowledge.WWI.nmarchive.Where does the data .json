@@ -1,0 +1,35 @@
+{
+  "id": "474ccf62-d393-4c49-9774-dd776185601f",
+  "name": "Knowledge.WWI.nmarchive.Where does the data ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "From the two lists of those who died during the Great War, published by His Majesty\u0027s Stationery Office on behalf and by authority of the War Office in 1921. These two lists consisted of 80 volumes of soldiers and one volume of officers. The Naval \u0026 Military Press arranged for the original data in both to be entered to a high level of accuracy. The original data has been extensively revised and corrected, and is now the best source of information available on those in the British Army who died in the First World War."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

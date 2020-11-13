@@ -1,0 +1,35 @@
+{
+  "id": "7e3b455a-3670-4f12-ae70-eb74ddc69414",
+  "name": "Knowledge.WWII.nps wwii.Who was Kilroy?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "“Kilroy was here”, accompanied by a cartoon drawing of a man looking over a wall, was a popular piece of graffiti drawn by American troops in the Atlantic Theater and then later in the Pacific Theater. It came to be a universal sign that American soldiers had come through an area and left their mark. Its origins most likely come from a British cartoon and the name of an American shipyard inspector. The myths surrounding it are numerous and often center on a German belief that Kilroy was some kind of superspy who could go anywhere he pleased. There are two Kilroys hidden in the memorial. You have to find them yourself!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3fb8b45e-6c7c-4ccd-b115-20527a18a417",
+  "name": "Knowledge.WWII.nps wwii.What do the stars re",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are 4,048 gold stars; each one represents 100 American military deaths. That means that more than 400,000 soldiers, sailors, marines, airmen, and military personnel lost their lives or remain missing in action in World War II. Of 16 million men and women in military service during the time, that number represents 1 death out of every 40. When an American went off to fight, the family often displayed in their window a flag bearing a blue star on a white field with a red border. If one of those dreaded telegrams arrived informing them of their family member\u0027s death, they would replace the blue star with a gold one; revealing that family’s sacrifice. “Here We Mark The Price Of Freedom” is inscribed below the Freedom Wall."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

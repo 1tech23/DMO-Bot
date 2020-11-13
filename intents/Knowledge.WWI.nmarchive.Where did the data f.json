@@ -1,0 +1,35 @@
+{
+  "id": "7e6b1033-752b-4422-9b6b-9dccd8ee47c4",
+  "name": "Knowledge.WWI.nmarchive.Where did the data f",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The original information came from a variety of sources within the War Office. Between 1944 and 1949 fatal casualty details were encoded onto cards and then printed via a Hollerith machine. The original printout, a copy of which can be seen at The National Archives, is largely in coded form. All the data it contains was decoded and transcribed in 2000 by Naval \u0026 Military Press and published as a fully searchable CD-ROM. Identical information is now on this website. Some general questions may be answered by referring to FAQ - Soldiers Died in the Great War, as similar situations arise for the Army Roll of Honour World War II."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

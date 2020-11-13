@@ -1,0 +1,35 @@
+{
+  "id": "25696fe3-6031-4975-a092-6d1f1be775d5",
+  "name": "Knowledge.WWII.WWII nationalwwiimus.Where is a good plac",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Be sure to ask about special packages and offers with The National WWII Museum when booking this hotel. The Higgins Hotel \u0026 Conference Center 1000 Magazine Street New Orleans, LA 70130 504-528-1941 Dining: Delicious decisions are easily made at The American Sector Restaurant \u0026 Bar—the perfect destination for lunch, snacks, and spirits. With a comfortable setting, affordable fare, and a tempting array of appetizers, salads, soups, entrées, sides, and desserts to enjoy, this popular venue awaits you. Join us at the bar to sample a pre-meal craft cocktail or refreshing microbrew! The American Sector restaurant hours are as follows: Open daily from 11:00 a.m. - 2:00 p.m. (Saturdays until 3:00 p.m.). In a destination where dining is defined as much by the experience as the ingredients, The Higgins Hotel \u0026 Conference Center boasts four new eateries that blend seamlessly into the Crescent City’s culinary landscape. Rosie\u0027s on the Roof Open Daily: 5:00 p.m. – 9:00 p.m. Provisions Open Daily: 7:00 a.m. – 3:00 p.m."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

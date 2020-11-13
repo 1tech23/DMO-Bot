@@ -1,0 +1,35 @@
+{
+  "id": "b7d2c1a1-94cf-46d5-bb2e-317ae668ea1c",
+  "name": "Knowledge.WWII.nps wwii.What do the bronze b",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are 24 bronze bas relief panels flanking the formal 17th Street entrance to the memorial. Each panel measures two feet tall by five feet long and was designed by Maryland artist Ray Kaskey. Twelve scenes from the homefront and the Pacific Theater are displayed on the south walk and twelve scenes from the homefront and the European Theater are along the northern walk. Descriptions and explanations of the sculptures are available as handouts at the World War II Memorial visitor contact station located along Home Front Drive."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

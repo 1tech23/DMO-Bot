@@ -1,0 +1,35 @@
+{
+  "id": "6cc829fb-50fc-4ad4-8f74-09cdd008c326",
+  "name": "Knowledge.WWI.nmarchive.Who is in these reco",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The men and women commemorated either served in Irish Regiments etc or were born or resident in geographical Ireland at the time of their death with other units from Britain and the dominions."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

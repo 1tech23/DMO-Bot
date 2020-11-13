@@ -1,0 +1,35 @@
+{
+  "id": "2809a052-73a9-44d7-a5ba-625658934839",
+  "name": "Knowledge.WWII.WWII nationalwwiimus.Why is the Museum lo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "New Orleans is home to the LCVP, or Higgins boat, the landing craft that brought US soldiers to shore in every major amphibious assault of World War II. Andrew Jackson Higgins and the 30,000 Louisiana workers of Higgins Industries designed, built and tested 20,000 Higgins boats in southeastern Louisiana during the war. Dwight Eisenhower once claimed that Higgins was \"the man who won the war for us.\" Learn more about Higgins Industries and Andrew Jackson Higgins here."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

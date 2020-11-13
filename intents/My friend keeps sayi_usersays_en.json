@@ -1,0 +1,67 @@
+[
+  {
+    "id": "73edeb72-30a6-475c-90fb-a4745bce5405",
+    "data": [
+      {
+        "text": "bad joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2eb8d85c-5235-4515-99af-bae1cc7299b7",
+    "data": [
+      {
+        "text": "dad joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82eb586d-25cd-4518-b517-65a76b014632",
+    "data": [
+      {
+        "text": "oof",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b46d857c-0a35-48f6-aaf3-f142e37da4a6",
+    "data": [
+      {
+        "text": "ouch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adaccb94-1d6b-444a-825e-f21a48763dee",
+    "data": [
+      {
+        "text": "cringe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

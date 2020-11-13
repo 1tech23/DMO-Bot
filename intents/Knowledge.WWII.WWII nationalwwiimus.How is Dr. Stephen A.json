@@ -1,0 +1,35 @@
+{
+  "id": "c23c7402-0ce2-434b-823f-f33445585383",
+  "name": "Knowledge.WWII.WWII nationalwwiimus.How is Dr. Stephen A",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The late Dr. Stephen Ambrose was the founder of The National WWII Museum. He spent decades researching and writing about the war, Eisenhower, and D-Day. As he collected more than 2,000 oral histories from D-Day veterans, he realized that the United States had no museum to honor these men and women and the people on the Home Front who made our victory in World War II possible. Ambrose was also the founder of the Eisenhower Center for American Studies at The University of New Orleans. Find out more about Stephen Ambrose and Nick Mueller, the founders of The National WWII Museum, here."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

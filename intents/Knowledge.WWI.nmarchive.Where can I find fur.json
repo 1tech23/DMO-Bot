@@ -1,0 +1,35 @@
+{
+  "id": "6fdfe4ac-5bfa-41f9-a2c8-a89982e1bed4",
+  "name": "Knowledge.WWI.nmarchive.Where can I find fur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are many sources of information, including the National Archives, the Imperial War Museum and the Commonwealth War Graves Commission. The Naval \u0026 Military Press offers a wide range of books on military subjects, and as you use the NMArchive.com website you will be prompted to go to relevant publications they have available that may be of interest to you."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

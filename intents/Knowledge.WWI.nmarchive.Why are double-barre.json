@@ -1,0 +1,35 @@
+{
+  "id": "7f36b408-eb3a-472b-8c59-37dbb6ed131f",
+  "name": "Knowledge.WWI.nmarchive.Why are double-barre",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The original records were all printed in upper case letters with no punctuation. Naval \u0026 Military Press transcribed the names as accurately as possible, but could not always differentiate between a casualty’s initials and decorations. For the website, upper and lower case has been used as it is more aesthetic, but the original problem remains."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

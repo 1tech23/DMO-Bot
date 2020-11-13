@@ -1,0 +1,35 @@
+{
+  "id": "376cae4d-9897-4dca-9965-8946b5864f95",
+  "name": "Knowledge.WWII.nps wwii.What are the constru",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The World War II Memorial is a predominantly granite structure. Almost 17,000 individual stones make up the memorial. The stones found in the vertical pillars and pavilions are Kershaw Granite from South Carolina. The horizontal paving stones are Green County Granite from Georgia. The accent stones in the Memorial Plaza are Rio Verde and Moss Green from Brazil. The coping stone around the Rainbow Pool is Mount Airy from North Carolina and the pool tiles are Academy Black from California. All of the metal sculptural devices are bronze, with the exception of the stars, which are stainless steel with gold plating."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

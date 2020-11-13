@@ -1,0 +1,35 @@
+{
+  "id": "2a88adf7-d727-40a1-97a8-00298d3d5e4d",
+  "name": "Knowledge.WWI.nmarchive.Who was Marquis de R",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "He was Melville Amadeus Henry Douglas Heddle de La Caillemotte de Massue, the 9th Marquis of Ruvigny and Raineval. He was heavily involved in genealogical research and published several books on genealogy – mainly on the nobility of Europe. He died in 1921."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

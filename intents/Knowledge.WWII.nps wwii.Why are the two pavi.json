@@ -1,0 +1,35 @@
+{
+  "id": "a0d72b25-263e-4665-8f3b-3276541566a8",
+  "name": "Knowledge.WWII.nps wwii.Why are the two pavi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "During World War II, U.S. military forces fought in two military theaters of operations on opposite sides of the world. Navy ships zigzagged their way across the Atlantic to transport Army and Marine personnel to fight in Northern Africa and Europe against the Germans and the Italians. Likewise, Army, Navy, and Marine units fought a brutal island-hopping campaign across the Pacific against the Japanese. The two forty-three foot tall victory pavilions honor their heroic service and ultimate success and list at their bases many of the major campaigns and battles from each theater of war."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

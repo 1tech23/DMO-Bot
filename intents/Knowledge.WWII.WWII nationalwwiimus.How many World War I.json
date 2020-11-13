@@ -1,0 +1,35 @@
+{
+  "id": "6d793859-f5ff-49c6-8ccf-bd4494823cba",
+  "name": "Knowledge.WWII.WWII nationalwwiimus.How many World War I",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Every day, memories of World War II—its sights and sounds, its terrors and triumphs—disappear. Yielding to the inalterable process of aging, the men and women who fought and won the great conflict are now in their late 80s and 90s. They are dying quickly—according to US Department of Veterans Affairs statistics, we are losing 348 veterans per day and only 496,777 of the 16 million Americans who served in World War II were alive in 2018. This urgency guides the Museum in everything we do. Collecting the oral history of a veteran, donating an artifact, or contributing to the Museum are only a few of the ways you can help us to preserve the legacy of the Greatest Generation. View more statistics and download full report."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

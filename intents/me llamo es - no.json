@@ -1,0 +1,41 @@
+{
+  "id": "4a9fd467-1642-426f-953c-44293a43caeb",
+  "parentId": "2ef8b270-3a20-4325-ad59-956eb73dabbe",
+  "rootParentId": "2ef8b270-3a20-4325-ad59-956eb73dabbe",
+  "name": "me llamo es - no",
+  "auto": true,
+  "contexts": [
+    "mellamoes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "mellamoes.mellamoes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright.",
+            "Ok.",
+            "I understand."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

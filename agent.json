@@ -1,0 +1,70 @@
+{
+  "description": "Dungeon Master Overlord for a DnD room. Under development.",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "DMOBot",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "055e7768-9894-4672-b7e5-da8b4b85b707",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/Denver",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "ea557773a3ed4f45981959beafccb34a",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [
+    "projects/dnd-bot-295217/knowledgeBases/OTM1NDA3OTc4MDE0MTUzMTEzNg",
+    "projects/dnd-bot-295217/knowledgeBases/MTczODczNzU2MTU0NjM2NTMzNzY",
+    "projects/dnd-bot-295217/knowledgeBases/Nzk1NjgzNzk5NTc0OTgzNDc1Mg",
+    "projects/dnd-bot-295217/knowledgeBases/MTI1MjAxMTAzMTgxODI5ODk4MjQ",
+    "projects/dnd-bot-295217/knowledgeBases/MTc4MTc0NjkzNzk4Nzc1MzU3NDQ",
+    "projects/dnd-bot-295217/knowledgeBases/MTEwMDEwNzU2MzA3ODI1NDU5Mg",
+    "projects/dnd-bot-295217/knowledgeBases/NTUyNzI0NDk1MjgyOTk1MjA",
+    "projects/dnd-bot-295217/knowledgeBases/MTMyMTQ3OTA1NjA3MDQ4ODg4MzI",
+    "projects/dnd-bot-295217/knowledgeBases/MTYzNTA0MjE4MDEyNjE1OTY2NzI",
+    "projects/dnd-bot-295217/knowledgeBases/MTgyNjMzMjU3NDI5ODcyMTQ4NDg"
+  ],
+  "knowledgeServiceConfidenceAdjustment": 0.1,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": ""
+}

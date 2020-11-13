@@ -1,0 +1,35 @@
+{
+  "id": "1b200a05-53a6-4018-8024-05d3466e60c7",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.Will my device work ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I have a device on which I would like to install Ubuntu. How do I find out if Ubuntu will work on it? system-installation compatibility community wiki 2 revsmuru"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

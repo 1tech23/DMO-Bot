@@ -1,0 +1,35 @@
+{
+  "id": "0cfaf93e-6a50-4b07-bdcc-c9e38fdd6a6f",
+  "name": "Knowledge.WWI.nmarchive.Does it only cover o",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No. Unlike many Rolls of Honour this one combines both officers and other ranks. All arms of service are included."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

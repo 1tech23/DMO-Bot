@@ -1,0 +1,35 @@
+{
+  "id": "d69f3988-72fe-40d3-8560-1480161c100e",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.Why don\u0027t the Ubuntu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Why are packages in the official Ubuntu repositories older than the latest (upstream) versions from Debian Sid, PPAs, the authors, etc.? package-management repository release-management asked Jun 15 \u002712 at 14:20 Thomas Ward♦ 57.9k2525 gold badges144144 silver badges202202 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

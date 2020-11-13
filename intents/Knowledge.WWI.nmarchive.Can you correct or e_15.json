@@ -1,0 +1,35 @@
+{
+  "id": "8dc1193d-007e-4198-bfdc-f6191de39a61",
+  "name": "Knowledge.WWI.nmarchive.Can you correct or e_15",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, no. Our aim with this web edition of Army Roll of Honour is to produce as near perfect a copy of the original War Office works as humanly possible. Our basic editorial rule is that if it appears in the original version, then it will appear on this website without alteration."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

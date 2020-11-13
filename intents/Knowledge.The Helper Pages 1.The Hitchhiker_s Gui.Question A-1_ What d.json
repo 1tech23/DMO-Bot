@@ -1,0 +1,37 @@
+{
+  "id": "295e7001-0674-47d0-8317-e8f89af3ea9b",
+  "name": "Knowledge.The Helper Pages 1.The Hitchhiker\u0027s Gui.Question A-1: What d",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In his book the number 42 is the “answer to the meaning of life, the universe, and everything” - calculated by a very big computer over a very very long time: “All right,” said Deep Thought. “The Answer to the Great Question…” “Yes..!” “Of Life, the Universe and Everything…” said Deep Thought. “Yes…!” “Is…” said Deep Thought, and paused. “Yes…!” “Is…” “Yes…!!!…?” “Forty-two,” said Deep Thought, with infinite majesty and calm.” Douglas Adams The Hitchhiker’s Guide to the Galaxy quoted from GoodReads Software developers like to use 42 as magic number, that’s a number without any real significance, which you could replace by any other number.",
+            "The answer to Life, the Universe, and Everything, according to Deep Thought the Super Computer, is 42.",
+            "The Answer to the Great Question is.....................       ........................................................................................................................42"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

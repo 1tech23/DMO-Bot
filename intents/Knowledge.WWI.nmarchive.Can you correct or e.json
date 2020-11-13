@@ -1,0 +1,35 @@
+{
+  "id": "6e295bd4-2906-427a-b058-a792779cf376",
+  "name": "Knowledge.WWI.nmarchive.Can you correct or e",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our aim with this web edition of Soldiers Died has been to produce as near perfect a copy of the original War Office works as humanly possible. Our basic editorial rule is that if it appears in the original 1921 records, then it will appear on this website without alteration."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

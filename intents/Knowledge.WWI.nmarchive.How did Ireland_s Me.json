@@ -1,0 +1,35 @@
+{
+  "id": "3e281ce2-19fd-41f0-be21-113bed9201a0",
+  "name": "Knowledge.WWI.nmarchive.How did Ireland\u0027s Me",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In 1923, 100 luxury volumes, with beautiful symbolic borders, detailing Ireland’s 49,000 war dead were printed on behalf of the Irish National War Memorial Committee under the direction of Lord Ypres (Field Marshal Sir John French). They were primarily intended for distribution through the principal libraries of the country."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

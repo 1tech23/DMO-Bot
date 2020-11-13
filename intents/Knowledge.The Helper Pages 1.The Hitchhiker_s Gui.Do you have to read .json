@@ -1,0 +1,35 @@
+{
+  "id": "fe9e46e3-d4ec-4c0d-89c7-7ae138e687b4",
+  "name": "Knowledge.The Helper Pages 1.The Hitchhiker\u0027s Gui.Do you have to read ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Taste is highly subjective. Though it seems that people who are already fans of Douglas Adams seem to enjoy the movie more than those who have no previous exposure to this series. On the other hand, many of the movie\u0027s jokes are taken directly from the books, so they do not necessarily work on the big screen when you already read the punchlines. Edit"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

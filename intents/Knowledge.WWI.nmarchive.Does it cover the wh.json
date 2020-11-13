@@ -1,0 +1,35 @@
+{
+  "id": "c98ddf17-7740-48f6-9aa6-1dffa1788cf8",
+  "name": "Knowledge.WWI.nmarchive.Does it cover the wh",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Whereas some biographies relate to casualties in 1917 and 1918, it is noticed that the majority relate to deaths in the earlier years."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

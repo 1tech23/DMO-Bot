@@ -1,0 +1,35 @@
+{
+  "id": "fa429306-7e59-40f5-94ed-a88e64122eb0",
+  "name": "Knowledge.WWI.nmarchive.Are there errors in ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The original versions of both Soldiers Died in the Great War 1914-1919 and Officers Died in the Great War 1914-1919 unfortunately contain many errors. These were made at the time. It is not possible to speculate on the number of original errors, even less to correct the majority of them on the website. This is primarily because of the destruction of the military records from which Soldiers Died was compiled in the first place by the War Office in 1921. It nevertheless remains a unique source of the most valuable information. The basic editorial rule adopted is that if it appears in the original printed edition, it has been copied thus onto the website. In response to numerous requests it has however been decided exceptionally to amend, where appropriate, the dates of death of those 110 casualties recorded as dying either before the war commenced or after 1/1/1921. In addition, a small number of dates, which made no sense at all, have been corrected. The authority adopted for the amended dates of death is that published by the Commonwealth War Graves Commission."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "310b5a6e-f136-49d2-866c-ed88fe4a95d9",
+  "name": "Knowledge.The Helper Pages 1.The Hitchhiker\u0027s Gui.Why did the bowl of ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This was revealed in the third book, \"Life, The Universe and Everything\".In that book, Arthur ends up meeting a creature called Agrajag. It turns out that during his adventures over the five books, Arthur has inadvertently caused Agrajag\u0027s death throughout his many reincarnated lifes. For instance, Agrajag had once been an old man who got a heart attack when Arthur appeared out of nowhere (through teleportation); he had been a rabbit once, being killed by Arthur for food; in another life he had been a fly being swatted by Arthur. Eventually, Agrajag became aware of this endless cycle of death by the hands of Arthur, and subsequent rebirth. So, when the Heart of Gold was attacked and one of the two missiles was changed by the Infinite Improbability Drive, this was actually Agrajag who was reincarnated into the bowl of petunias. When realizing he had once again been pulled into existence, and seeing Arthur Dent\u0027s face in one of the ship\u0027s windows, his immediate thought was \"Oh no, not again!\" Edit"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

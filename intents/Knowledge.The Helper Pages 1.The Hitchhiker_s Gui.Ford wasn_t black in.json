@@ -1,0 +1,35 @@
+{
+  "id": "9573a4ff-3848-4d0a-a11d-eb2323da5dca",
+  "name": "Knowledge.The Helper Pages 1.The Hitchhiker\u0027s Gui.Ford wasn\u0027t black in",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ford\u0027s only real physical description in the novels says that he has ginger hair and smiles a bit too wide; ginger hair is more commonly associated with white people. He was previously played by Geoffrey McGivern (radio voice) and David Dixon (TV series), both white. Edit"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

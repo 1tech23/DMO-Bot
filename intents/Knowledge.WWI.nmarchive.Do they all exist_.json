@@ -1,0 +1,35 @@
+{
+  "id": "d25b2705-a582-4424-b8d7-82df7d3de093",
+  "name": "Knowledge.WWI.nmarchive.Do they all exist?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We are very fortunate in that a significant proportion of all the diaries that were originally produced still exist today. However, there are exceptions: in particular, many units of the Labour Corps and the Royal Garrison Artillery, some Royal Engineers and Army Service Corps units are missing from the National Archives collection. Some diaries are only fragments, with pages or even whole months missing. Units and formations that were at home in general did not submit diaries, although a few of them do exist. Most of the diaries begin when the unit or formation was just about to go overseas, or when it was formed if this took place overseas."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

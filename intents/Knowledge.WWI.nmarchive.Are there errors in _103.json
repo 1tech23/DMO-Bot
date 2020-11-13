@@ -1,0 +1,35 @@
+{
+  "id": "1c148858-cfbb-45c5-8e74-31dffc97b2aa",
+  "name": "Knowledge.WWI.nmarchive.Are there errors in _103",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Unfortunately yes! The original records were kept and then copied by vast numbers of clerks, many of whom were insufficiently trained and motivated for the purpose. The primitive punch card system used did not, additionally, lend itself to accuracy."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

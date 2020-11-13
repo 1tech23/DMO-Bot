@@ -1,0 +1,35 @@
+{
+  "id": "d5c33d36-f759-465c-b84e-c39370ad235f",
+  "name": "Knowledge.The Helper Pages 1.The Hitchhiker\u0027s Gui.Why do the Vogons cr",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This is a joke for those who know the books. The Vogons are described as a race that follows bureaucratic rules into extreme absurdity (as indicated by the example that a Vogon would not even try to save its mother from the Ravenous Bugblatter Beast of Traal without following several mandatory procedures). One of the few pleasures they allow themselves is smashing jewel-backed scuttling crabs in pieces with a hammer. In the books they actually eat the crabs, but first of all they smash them as well before digesting the crab meat.(On the origin of the crabs:)The detailed description in the book also indicates that the jewel backed scuttling crabs (and the beautiful gazelle-like creatures) are part of the forces of evolution attempting to create an antipole to the Vogons (since they didn\u0027t allow them evolve any further from their primeval state, simply out of disgust.). The Vogons in return smash \u0026 eat the crabs and ride the gazelles, but kill them as their backs would snap under the Vogons\u0027 body weight.The gazelle-like creature has a cameo in the film as well: The seat of Prostetnic Vogon Jeltz on the Vogon ship has the shape of a gazelle whose back has just been snapped (as a direct result of a Vogon sitting on it). Edit"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

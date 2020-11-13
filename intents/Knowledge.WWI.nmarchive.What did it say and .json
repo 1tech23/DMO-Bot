@@ -1,0 +1,35 @@
+{
+  "id": "f6f84cbd-65b7-4fbf-8e95-03a441d84bf3",
+  "name": "Knowledge.WWI.nmarchive.What did it say and ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Most entries for the Distinguished Conduct Medal are in the form of a citation, which typically gives the man’s name, rank, number and unit as well as a summary of the act of heroism that resulted in the award. Very often the soldier’s hometown is shown. The date it appeared in the London Gazette is also given. The entire entry is available to view on this website, Military-Genealogy."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

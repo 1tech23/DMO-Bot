@@ -1,0 +1,35 @@
+{
+  "id": "4259ad37-9566-460e-8abe-460eecdf7d0b",
+  "name": "Knowledge.WWI.nmarchive.If it is considered _578",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, no. Errors discovered in any published book cannot be corrected unless it is re-published as a second edition. No second edition of the Marquis de Ruvigny’s Roll of Honour has ever been published. What you are viewing is a copy of the original and only edition."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

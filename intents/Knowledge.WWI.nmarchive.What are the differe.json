@@ -1,0 +1,35 @@
+{
+  "id": "774576c2-7340-4d62-9ea3-101a87685b84",
+  "name": "Knowledge.WWI.nmarchive.What are the differe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Both authorities give details about the casualty but there are considerable differences in the information available. Soldiers Died (in 80 volumes plus one for officers) was compiled, published and sold by the War Office in 1921 from various military records that no longer exist. Similar, but not identical, information was made available to the War Graves Commission and they used some of it to identify casualties for their registers, most of which were published and sold during the 1930s. In summary, the most important purpose of the files of the CWGC is to provide information so that the next of kin may know the resting place or place of commemoration of their relatives. The CWGC records are therefore designed to identify the casualty and trace the cemetery or memorial. They give the location of the grave or memorial to aid a visit and thus provide a most valuable service. The basic CWGC data is supplemented, in 60% of the cases only, with additional information that was provided by the family before the registers were published. The cause of death, decorations, details of former unit, together with places of birth, enlistment or residence are not given unless mentioned in additional information supplied at the time by relatives. Soldiers Died in the Great War has been computerised from the paper volumes published in 1921. In addition to giving basic information to enable identification it also shows, in a majority of cases, genealogical details of value to family historians such as places of birth, enlistment and residence. Often the former military unit is shown along with other useful information such as medal entitlement. The fundamental cause of death and theatre of war is also shown. Neither Soldiers Died in the Great War nor the records of the Commonwealth War Graves Commission stand alone. They complement each other with similar, but generally different, information other than the basic military identification information."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "f948f8d1-ae29-4735-9306-14988ce61de0",
+  "name": "Knowledge.WWI.nmarchive.Is there anything sp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Very much so. It was originally published in five volumes and is a compilation of over 26,000 biographies of casualties of the Great War of 1914-1918. Each page of the original book was published in two columns of small yet clear text. The biographies vary in length from a couple of lines of basic information to well over 1,000 words of text detailing the pre-war life and exact circumstances of death."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

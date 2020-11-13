@@ -1,0 +1,35 @@
+{
+  "id": "ddcaa033-c4ef-411d-804a-b6c05f5a3a71",
+  "name": "Knowledge.WWI.nmarchive.I can\u0027t find it! Whe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The answers to these questions are fairly simple. The War Diary you seek is almost certainly contained within the pages on this website. Using the search facilities should make finding it straightforward but a few tips may be useful. The term \u0027Piece number\u0027 is part of the original official government filing system and continues to be used by The National Archives (TNA) to identify a particular diary or diaries. When seeking a particular War Diary by, for example, selecting \u0027Regiment\u0027 and \u0027Battalion\u0027, you will be presented with the entire contents of that allocated \u0027Piece\u0027 number. It may have been allocated to more than one diary. To check this, perform a search solely on the piece number, this will reveal the full contents of that one piece. To isolate the one you want, use the filter facility made available after \"view diary\" is selected. Try keying just basic information to quickly get to your chosen unit or subject. Too much information may restrict your search. Alternatively, scroll down through the entire \u0027Piece\u0027 until you reach the sub section you seek. You may well come across unexpected gems on your journey! The War Diaries were compiled during the course of, and immediately following, the First World War. They recorded the events deemed relevant at the time. These priceless documents were promptly locked away from public gaze as much of their contents was deemed secret. They were however made available to the historians appointed to write the official histories of the war. And that task dragged on for the next 30 years. The diaries returned to cold storage in due course, accessible only to the chosen few. In 1965 the War Diaries were finally released to readers at the Public Record Office, under Class WO95, and promptly seized upon by hungry historians. During the following decades their millions of pages were turned, photocopied, shuffled, damaged, misfiled, lost and, regrettably, sometimes stolen. Some items, most usually maps and sensitive personal information, were officially removed and re-located elsewhere. Then, a few years ago, now renamed The National Archives decided to scan a few of these precious papers. Gradually more and more diaries were copied and now we have created a sophisticated index to enable the researcher to easily access the required text. As with every index it helps to understand how the original document was filed and, in this case, prepared for the camera. After several decades of public rummaging the original diaries were in a bit of a sorry state. Volunteers spent a considerable amount of time sorting and tidying every diary and trying to get the pages back into chronological order before the camera arrived. The War Diaries in Class WO95 are \u0027Piece\u0027 numbered in a sequential order of seniority and date that makes perfect sense when they are read in paper form. They are stored in strong cardboard boxes for protection. Some diaries have more pages than others. It was not sensible to have a big box containing a diary of just few pages on its own - it took up too much shelf space. Accordingly, several diaries were placed, albeit in separate entitled folders, into a single box until it was full. It was easy to find a desired folder [diary] within the box. Each box, not each diary, was allocated a unique Piece number. Where the diary of a particular unit conveniently fills its box that number relates exclusively to that unit. An example is WO95/1714 which is the number allocated entirely to 2nd Battalion West Yorkshire Regiment for the period December 1914 to June 1919. Where, however, the diaries are small in physical size, many are grouped together into one box and hence share a single Piece number. A simple example is WO95/2179 where three diaries occupy one box and share the same number. Quite frequently units were transferred from one level of higher command to another. An example would be where a battalion was reassigned to a different division part way through the war. In such situations the diary for that unit will be divided between locations (divisions etc) and hence filed under two (or sometimes more) Piece numbers."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

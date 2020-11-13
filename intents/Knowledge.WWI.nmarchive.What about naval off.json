@@ -1,0 +1,35 @@
+{
+  "id": "7dac70c2-764e-476b-a8fa-81d34be09e9f",
+  "name": "Knowledge.WWI.nmarchive.What about naval off",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The casualty records for officers are contained in card indexes at The National Archives and it is hoped will be included in our database soon. In the meantime, details can be gleaned from The Cross of Sacrifice (volume 2) by S.D \u0026 D.B Jarvis, which is obtainable from Naval \u0026 Military Press."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fce48cda-a2bd-4853-98ad-7eff6936a2b8",
+  "name": "Knowledge.WWI.nmarchive.Less information app",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It was a War Office decision to restrict the amount of information it was prepared to make public for Second World War casualties. All that was available has been transcribed and published."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

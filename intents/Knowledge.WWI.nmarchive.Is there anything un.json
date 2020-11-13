@@ -1,0 +1,35 @@
+{
+  "id": "56fa3ec6-8d8a-45b3-8379-71603b2ee0cb",
+  "name": "Knowledge.WWI.nmarchive.Is there anything un",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are many surprises, such as submariners buried in Baghdad and men in the Armoured Car Division buried in Russia. One gem, noticed among the records describing a grave, is “Buried [in] East Africa on a small knoll marked by blazed tree, R. bank Kaibiga River, 100 yards W. of Ndyimbwa-Ungwara.” For those lost at Gallipoli there are often detailed descriptions rather than traditional locations for the grave."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

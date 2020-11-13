@@ -1,0 +1,35 @@
+{
+  "id": "ca0a4674-7132-4fd2-bc9b-cfdec55a70ad",
+  "name": "Knowledge.WWI.nmarchive.What details are giv",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The details given vary greatly, depending on the nature of the unit, what it was doing and, to some extent, the style of the man writing it. The entries vary from very simple and repetitive statements like \u0027Training\u0027 up to many pages of description when a unit was in battle. Production of the diary was the responsibility of the Adjutant of the headquarters concerned."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

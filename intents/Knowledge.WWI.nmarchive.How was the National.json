@@ -1,0 +1,35 @@
+{
+  "id": "3d467912-e779-4dfb-bfd7-ce1f402da1b7",
+  "name": "Knowledge.WWI.nmarchive.How was the National",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "By subscription. The contributors were charged 7/6d (37p) per entry in one volume. It seems people were invited to submit a personal biography of themselves or another in a certain format."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

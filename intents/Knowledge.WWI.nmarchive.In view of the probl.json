@@ -1,0 +1,35 @@
+{
+  "id": "66bd2fff-6a06-43ea-a69d-494387bb9607",
+  "name": "Knowledge.WWI.nmarchive.In view of the probl",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "They are shown under \u0027Initials etc\u0027 in the following order: Initials, Title (where appropriate) and then Decorations."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

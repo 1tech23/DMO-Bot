@@ -1,0 +1,35 @@
+{
+  "id": "917d7c29-791c-4a79-80f3-968b23a1673c",
+  "name": "Knowledge.WWI.nmarchive.Were not most of the",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That is true and yet around 36% do have graves around the world. Aside from seamen who actually died on land, many bodies were subsequently washed ashore after their ship sank. Additionally, thousands fought as ‘sea-soldiers’ in support of their chums in the army at Gallipoli, Russia and the Western Front. Those who died on land will often have named graves. For those whose grave is the sea there is still considerable information available. If there is no known grave then their name will usually appear on a memorial to the missing."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

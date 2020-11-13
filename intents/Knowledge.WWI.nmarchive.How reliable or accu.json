@@ -1,0 +1,35 @@
+{
+  "id": "3da3ecce-7069-4678-9cc0-ce1d9079339b",
+  "name": "Knowledge.WWI.nmarchive.How reliable or accu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The diaries were ordered to be written with a future production of an Official History in mind. In general, they appear to be factually accurate although inevitably at times of intensive action, especially when many officers and men did not survive, the details were written up after the event and relied on memory of what could be complex and chaotic situations. It is sometimes possible to detect from the language used in the diary whether it was written at the time or at a later date."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

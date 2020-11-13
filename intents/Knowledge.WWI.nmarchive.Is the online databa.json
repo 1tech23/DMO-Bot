@@ -1,0 +1,35 @@
+{
+  "id": "f62161f1-f303-449f-bb3a-588e4b8185b4",
+  "name": "Knowledge.WWI.nmarchive.Is the online databa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes. Aside from locating a set of the books, which are not readily available, your online search gives a rapid index check of all 14 original volumes. It then links straight to the required page and displays it in a very convenient form that can be downloaded onto your computer for future reference."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

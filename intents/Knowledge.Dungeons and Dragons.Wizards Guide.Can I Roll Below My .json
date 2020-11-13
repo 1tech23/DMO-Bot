@@ -1,0 +1,35 @@
+{
+  "id": "565f3f1d-2441-4822-8e9e-b9f8856b883d",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Can I Roll Below My ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This question is based on a false premise. Passive Perception is a DM tool. In other words: you do not use your passive Perception, your DM does. The role of the player is to describe what their character says and does in the moment; the DM will determine when and if a roll is necessary. For a more robust discussion on this, see our article D\u0026D Tips: Using (Passive) Skills."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

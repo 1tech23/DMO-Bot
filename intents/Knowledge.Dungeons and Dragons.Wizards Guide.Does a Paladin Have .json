@@ -1,0 +1,35 @@
+{
+  "id": "a140f271-6eef-443d-9d6c-ec9fb6d7fd69",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Does a Paladin Have ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No. Alignment restrictions for classes were a pre-4th Edition feature and should remain dead and buried. Your paladin’s alignment, while it should probably reflect the tenets contained in the oath you will take, is completely up to you. Some oaths actually work better thematically with evil characters."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

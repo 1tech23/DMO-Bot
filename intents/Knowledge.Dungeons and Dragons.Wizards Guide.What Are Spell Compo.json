@@ -1,0 +1,35 @@
+{
+  "id": "85263902-2944-47f5-bf6d-0c522f3d5ef6",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.What Are Spell Compo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Spell components are pesky things that some people call “flavour” and other (more rational) people call “a gag that should have died in Second Edition”. There’s some argument that they serve to balance magic, but a much better argument that there are better ways to balance magic that don’t impose flavour on your game. For a full discussion on Spell Components, see our article D\u0026D Tips: Spellcasting Components and Focuses."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

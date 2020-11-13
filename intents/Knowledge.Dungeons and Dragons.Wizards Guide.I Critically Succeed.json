@@ -1,0 +1,35 @@
+{
+  "id": "eb19af46-03a0-48dd-b8db-efe4cb85521b",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.I Critically Succeed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You cannot critically succeed (or fail) an ability check. Critical successes and failures apply only to attack rolls."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

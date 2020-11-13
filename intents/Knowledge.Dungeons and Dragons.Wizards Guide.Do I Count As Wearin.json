@@ -1,0 +1,35 @@
+{
+  "id": "57c20b84-577c-40ea-bb93-99572fdee359",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Do I Count As Wearin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No. Natural armour does not count as armour and therefore does not interfere with features like the monk’s Unarmoured Defence (though you would still have to pick whether you want to use your natural armour or that feature, as opposed to combining the two [see “Do Armour Bonuses Stack”, above]) or the barbarian’s Rage, nor does it interfere with items like bracers of armour. However, it also does not benefit from a fighter’s Defense fighting style."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

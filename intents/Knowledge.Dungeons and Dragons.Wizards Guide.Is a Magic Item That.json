@@ -1,0 +1,35 @@
+{
+  "id": "8118ebb8-cfb5-4166-b3d7-a2bdf6afa024",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Is a Magic Item That",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It’s up to the DM, and they likely will say it depends on the item. Items that allow you to cast spells from them, such as wands or staves, sidestep the issue of spellcasting focuses by not requiring components, which eliminates the need for material components (DMG 141). However, they also pretty clearly fit the definition of the arcane version of spellcasting focuses, called arcane focuses. An arcane focus is “a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item—designed to channel the power of arcane spells” (PHB 151). This would seem to support a wizard, sorcerer, or warlock using these items as their spellcasting focus. However, not all classes use arcane focuses. Clerics and paladins use their holy symbols, druids use a druidic focus, and unless you are using Unearthed Arcana rules, other classes are stuck using material components. For them, the answer is less clear, and may require adjudication by your DM."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

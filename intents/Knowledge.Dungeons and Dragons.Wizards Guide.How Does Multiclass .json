@@ -1,0 +1,35 @@
+{
+  "id": "ecfec591-af4e-4e1e-8f8e-7b5a98018d7a",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.How Does Multiclass ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Quite easily. At least, when you know where to look for the rules. In broad strokes, you combine your spellcasting levels to determine your spell slots, but learn and prepare spells for each spellcasting class as though your only levels are the ones you have in that class. We discuss this more completely in our article, Things You Didn’t Know About D\u0026D 5E: Multiclass Spellcasting."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

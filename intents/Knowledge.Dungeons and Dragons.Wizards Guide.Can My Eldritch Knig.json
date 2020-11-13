@@ -1,0 +1,35 @@
+{
+  "id": "e3d1e693-dd14-4c70-aeee-119d3d09ef3c",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Can My Eldritch Knig",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No, not unless you use your Action Surge to gain a second action. The fighter’s Extra Attack feature allows you to make an additional attack when you take the Attack action. Casting a spell might involve making an attack roll, but it does not fall under the Attack action; rather, it falls under the Cast a Spell action. See the “Actions in Combat” section on page 192 of the Player’s Handbook. Sorry, a 5th-level fighter can’t cast greenflame blade twice with his Extra Attack. The closest you can get is a 7th-level Eldritch Knight who uses his action to cast a cantrip (such as greenflame blade) and can make one melee weapon attack as a bonus action due to the War Magic feature."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

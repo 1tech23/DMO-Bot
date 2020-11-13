@@ -1,0 +1,35 @@
+{
+  "id": "6862631b-98dd-4fc0-a82b-fab0f4cdd8dd",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.What is a Good Multi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you are interested in what multiclass combinations work well, check out our article D\u0026D Tips: Multiclassing Like a Pro."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

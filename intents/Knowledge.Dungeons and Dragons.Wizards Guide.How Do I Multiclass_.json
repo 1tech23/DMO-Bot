@@ -1,0 +1,35 @@
+{
+  "id": "7a4a5f50-4b0b-4e92-9082-c41ae20ff8a4",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.How Do I Multiclass?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Multiclassing allows a character to gain a level in a different class, such as a fighter taking a level of rogue. You can do this when you accumulate enough experience points to level up."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

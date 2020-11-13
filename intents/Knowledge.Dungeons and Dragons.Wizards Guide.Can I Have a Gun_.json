@@ -1,0 +1,35 @@
+{
+  "id": "95c99af3-fe7c-4028-b244-0b95f920ab0f",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Can I Have a Gun?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Guns do not appear in the standard equipment section of the Player’s Handbook. If you would like to have one, you will have to talk with your Dungeon Master. Most DMs disallow firearms for their own reasons. Some examples include: early guns were rather less reliable than a bow and the DM wants to avoid the anachronism of semiautomatic weapons in a late medieval setting; because gunpowder fundamentally changed society and the DM wants to maintain a medieval feel; and/or because the raw materials for gunpowder are simply not available. Ultimately, the decision about whether to include or exclude guns from a campaign rests with the DM. Your DM might also place certain restrictions on guns if they are to be included, such as requiring that your character have a certain backstory to be proficient with them."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

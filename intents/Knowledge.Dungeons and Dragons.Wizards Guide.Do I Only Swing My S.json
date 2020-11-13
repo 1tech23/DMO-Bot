@@ -1,0 +1,35 @@
+{
+  "id": "76018d14-5e2b-4b65-9cba-e05899cf536d",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Do I Only Swing My S",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This is a bit complicated and tends to veer into how you choose to describe combat. On the one hand, the attack action represents trying to hurt your opponent. How effective you are at it is represented by your attack bonus and the number of attacks you make. A character with the Extra Attack feature isn’t necessarily going to swing twice when just yesterday (before they levelled up) they had only been able to swing once. Rather, they are now twice as effective in their attack action, which can take the form of anything from a flurry of quick attacks to a single, heavy overhead swing meant to cleave into an especially tough opponent (like a dragon). On the other hand, as specified on page 146 of the Player’s Handbook, ranged attackers “must expend one piece of ammunition […] each time” they attack, so they really are loosing multiple bolts or arrows. Skilled medieval longbowmen were expected to loose 10-15 arrows a minute, while crossbowmen were expected to loose 5 or 6 bolts. Crossbows required less training (which is why it works out that you can achieve this target in the 1st tier [levels 1-4]) while longbows required a lifetime of experience (which is why it works out that this is only possible in tier 2 [levels 5-10] or later). So while there’s less leeway in roleplaying combat with a ranged weapon, at least you have the solace of being historically accurate. For a more robust discussion on narrating combat, see our article D\u0026D Tips: Describing Combat \u0026 Hit Points."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

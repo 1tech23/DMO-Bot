@@ -1,0 +1,35 @@
+{
+  "id": "ab51e550-30d4-4213-ab6f-69bf6b8fe36b",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.What Level Is A Spel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Such a spell is always cast at its lowest level. For example, the warlock’s Thief of Five Fates feature allows you to cast bane with a spell slot, which means it is based on the level of the warlock’s spell slots. However, the Chains of Carceri feature allows you to cast hold monster without using a spell slot, and therefore it would always be cast at 5th level. The same rule also applies to creatures with the Innate Spellcasting feature, with the exception of cantrips, which use the monster’s spellcasting level (if any is indicated in the Innate Spellcasting feature) or, if no level is mentioned, the monster’s challenge rating. A CR 6 creature would therefore cast cantrips like a tier 2 character, meaning 2dx for the damage of most cantrips."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

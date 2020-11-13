@@ -1,0 +1,35 @@
+{
+  "id": "3577c2cc-c127-42f1-9224-d3f694b0e6b3",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Does Teleporting Neg",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This question is generally posed along the lines of “If I am falling and I cast dimension door or misty step to get to the ground, do I take falling damage?” While not expressly covered in the rules, the answer to this should be “Yes, teleporting negates momentum”. The reason being that you would otherwise suffer a brutal death when you teleport further than a few hundred miles, as the velocity and vector of your initial position would be in stark contrast to the velocity and vector of your final position. Consider how the Earth rotates once a day (hence why we have days). For an object as large as the Earth to do this, it has to be going very quickly (about 2,000 miles per hour near the equator). It also is hurtling through space at a velocity of 67,000 miles per hour. If you are coming around the trailing side of the Earth (celestial west) and you teleported to the antipode of the planet (celestial east) without ditching momentum, you would smash into the Earth’s surface hundreds of times faster than terminal velocity. No amount of dice could ever approximate just how dead you would be. Without being able to ditch your motion vector, teleportation beyond a range of about 300 miles would likely prove fatal, and yet it doesn’t, and so teleportation must therefore involve your relative velocity being matched to that of your destination. It’s just physics."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

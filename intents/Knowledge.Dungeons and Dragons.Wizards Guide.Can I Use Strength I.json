@@ -1,0 +1,35 @@
+{
+  "id": "bb1f9d43-5a06-4fe3-8568-61fcd2e02b0f",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Can I Use Strength I",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The short answer is yes, provided that you do something intimidating with your brawn. There are no “Intimidate” checks, nor any other “skill checks” for that matter. Rather, there are ability checks, and you can add your proficiency bonus if you are doing a task that you are trained in (such as intimidating somebody). Theoretically, any skill could potentially apply to any ability check (though some combinations are harder to find an appropriate situation to, like a Charisma (Athletics) check, for instance). For a more robust discussion on this, see our article Things You Didn’t Know About D\u0026D 5E: Ability Checks."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

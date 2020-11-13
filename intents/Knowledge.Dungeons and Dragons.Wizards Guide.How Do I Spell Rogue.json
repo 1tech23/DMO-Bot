@@ -1,0 +1,35 @@
+{
+  "id": "b052f808-3e0c-4b88-9eaf-9e3482692ae5",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.How Do I Spell Rogue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Rogue. It’s someone with an aptitude for stealth, thievery, skulduggery, chicanery, etc., not a cosmetic to redden cheeks."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

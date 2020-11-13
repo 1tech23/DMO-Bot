@@ -1,0 +1,35 @@
+{
+  "id": "cc6ea996-6fe9-4be7-ab98-1032952b5469",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.What Are Hit Points?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hit points are more than just your physical hardiness. They are an abstraction of all of the aspects that go into determining how much you can put up with before being knocked unconscious. These include, but are not limited to: stamina, mental resilience, martial skill, and luck. Being “hit” in combat doesn’t necessarily mean your character is physically struck unless you and your DM choose to have that be the case, as may be appropriate because the attack has a rider such as additional poison damage or because it was a critical hit. Remember, this is a game, not a combat simulator; you occasionally have to be willing to just accept that it’s not perfect and doesn’t have to be in order to be entertaining. For a more robust discussion on hit points, check out our article D\u0026D Tips: Describing Combat \u0026 Hit Points."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

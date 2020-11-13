@@ -1,0 +1,35 @@
+{
+  "id": "289c2a76-3bbb-4837-b0f9-474085e6ee1c",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Do Armour Bonuses St",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes and no. When you have two formulas for your AC, such as a lizardfolk’s natural armour and a suit of plate armour your character picks up, you must pick which formula you will use. However, items such as shields or a ring of protection simply increase your Armour Class and will stack with other AC bonuses, so a shield and a ring of protection together would grant a +3 bonus to whatever AC formula you are using. For a full discussion on calculating Armour Class, check out our article Things You Didn’t Know About D\u0026D 5E: Calculating AC."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

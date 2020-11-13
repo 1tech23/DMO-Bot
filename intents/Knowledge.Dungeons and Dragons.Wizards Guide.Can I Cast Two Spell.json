@@ -1,0 +1,35 @@
+{
+  "id": "fe8ae70e-5b8e-4a03-b4f4-0feb0549dac0",
+  "name": "Knowledge.Dungeons and Dragons.Wizards Guide.Can I Cast Two Spell",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Not unless the non-bonus action spell is a cantrip with a casting time of 1 action. For a more robust discussion on this topic, see our article D\u0026D Tips: Bonus Action Spells."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

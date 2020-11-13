@@ -1,0 +1,147 @@
+[
+  {
+    "id": "4ed3ebf2-f392-4a58-bfc1-fc61740931d1",
+    "data": [
+      {
+        "text": "cookies and cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26df6ec2-e5e1-48e7-bf92-5f806b065fd9",
+    "data": [
+      {
+        "text": "chocolate brownie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6980bbd3-9c3b-495e-8436-585ada8b2039",
+    "data": [
+      {
+        "text": "moose tracks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90280320-15db-483e-b7cb-5841540de7d4",
+    "data": [
+      {
+        "text": "mint chocolate chip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a5775c3-3e73-4405-a099-93c97a44ff03",
+    "data": [
+      {
+        "text": "grasshopper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "292bab3a-74d8-440b-ab88-e40d49a01705",
+    "data": [
+      {
+        "text": "play dough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef868797-5505-4bf6-9a46-3da1fb44c261",
+    "data": [
+      {
+        "text": "banana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93159cf0-3240-4f01-befe-4f1dda92a81b",
+    "data": [
+      {
+        "text": "chocolate vanilla twist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aef7be23-10ec-4ece-8807-b1199ca2a3c9",
+    "data": [
+      {
+        "text": "strawberry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af79164b-de62-4bbb-8788-34fd63f02b14",
+    "data": [
+      {
+        "text": "vanilla",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22f0e1a9-fa5d-4369-994f-a0a4a1a00f0e",
+    "data": [
+      {
+        "text": "chocolate",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

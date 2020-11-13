@@ -1,0 +1,41 @@
+{
+  "id": "6f444639-dc81-4b36-bfae-1eaeef2b5598",
+  "name": "can you help me with a dnd scenario",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "canyouhelpmewithadndscenario-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can help you with a DnD campaign/adventure/scenario. Although, right now, all I can do is provide you with a copy of the guidebooks. Make sure somebody in the group has a full set of DnD dies, as they are required for creating a campaign. Would you like a copy of the books?",
+            "Yes. All I can do, however, is send you a copy of the guidebooks. Make sure that someone in your group has a full set of DnD dies. Now, would you like a copy of the books?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

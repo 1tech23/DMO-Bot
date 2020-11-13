@@ -1,0 +1,40 @@
+{
+  "id": "916d85c1-142c-4b59-a389-51fb6c3eea41",
+  "parentId": "f886bc9f-3bde-42e0-8dd4-a70f122f0d34",
+  "rootParentId": "6f444639-dc81-4b36-bfae-1eaeef2b5598",
+  "name": "can you help me with a dnd scenario - yes - no",
+  "auto": true,
+  "contexts": [
+    "canyouhelpmewithadndscenario-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "canyouhelpmewithadndscenario.canyouhelpmewithadndscenario-yes.canyouhelpmewithadndscenario-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright.",
+            "Ok."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

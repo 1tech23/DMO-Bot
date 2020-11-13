@@ -1,0 +1,211 @@
+[
+  {
+    "id": "75a238e6-a5bf-461b-8128-72fe54be94c8",
+    "data": [
+      {
+        "text": "canned strawberries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25d36ea6-62aa-4e3e-85ae-5bc734e5be9f",
+    "data": [
+      {
+        "text": "strawberry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "059f97b0-7c86-4034-b28a-60b2d3ac584d",
+    "data": [
+      {
+        "text": "strawberry syrup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6515925-5267-4f33-adec-ae366250355f",
+    "data": [
+      {
+        "text": "chocolate",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a38c327-d348-4819-9c54-731ac29addbb",
+    "data": [
+      {
+        "text": "caramel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2069de1b-dde9-427f-83e6-d614097c40f9",
+    "data": [
+      {
+        "text": "caramel syrup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4be90c03-0780-4a39-aa62-e97f0dbdba55",
+    "data": [
+      {
+        "text": "chocolate chips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4f2a68b-0bfb-4a81-938f-fccb636857f0",
+    "data": [
+      {
+        "text": "sprinkles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "468a3100-bf5a-4938-8608-439576411205",
+    "data": [
+      {
+        "text": "chocolate syrup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b856ea0-eb6d-48b2-914b-3fc66aac79ad",
+    "data": [
+      {
+        "text": "chocolate syrup only",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b48bc8f-be32-48a8-a18f-989180d87a90",
+    "data": [
+      {
+        "text": "sprinkles only",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "602554a3-4b9a-4754-aff0-3ac5793826bc",
+    "data": [
+      {
+        "text": "mnms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bff2c01-2f09-493c-801a-d0dd3c297b7d",
+    "data": [
+      {
+        "text": "m\u0026ms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b74cbb35-8b79-445f-9954-d3a3b9c6a1cc",
+    "data": [
+      {
+        "text": "peanuts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97543f7f-892e-48fe-aeff-a8b5f55b0f03",
+    "data": [
+      {
+        "text": "peanuts and m\u0026ms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e313ad11-c735-4aa2-b49d-3010549fac8f",
+    "data": [
+      {
+        "text": "peanuts and mnms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

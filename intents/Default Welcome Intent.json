@@ -1,0 +1,42 @@
+{
+  "id": "03bb3354-d095-4c10-899f-d191e93e2211",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! I can do nearly anything that involves DnD questions, just ask. I can also answer questions about The Hitchhiker\u0027s Guide to the Galaxy. I can do some fun tricks. Also, I can provide some tech support towards Android devices, iPhone devices, and Macbook devices. Also, you can now ask about World War 2 and World War 1. Just ask for help, and I will try to provide it!",
+            "Hello! I can do nearly anything that involves DnD questions, just ask. I can also answer questions about The Hitchhiker\u0027s Guide to the Galaxy. I can do some fun tricks. Also, I can provide some tech support towards Android devices, iPhone devices, and Macbook devices. Also, you can now ask about World War 2 and World War 1. Just ask for help, and I will try to provide it!",
+            "Good day! I can do nearly anything that involves DnD questions, just ask. I can also answer questions about The Hitchhiker\u0027s Guide to the Galaxy. I can do some fun tricks. Also, I can provide some tech support towards Android devices, iPhone devices, and MacBook devices. Also, you can now ask about World War 2 and World War 1. Just ask for help, and I will try to provide it!",
+            "Greetings! I can do nearly anything that involves DnD questions, just ask. I can also answer questions about The Hitchhiker\u0027s Guide to the Galaxy. I can do some fun tricks. Also, I can provide some tech support towards Android devices, iPhone devices, and MacBook devices. Also, you can now ask about World War 2 and World War 1. Just ask for help, and I will try to provide it!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

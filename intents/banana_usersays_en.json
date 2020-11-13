@@ -1,0 +1,28 @@
+[
+  {
+    "id": "d4422f9e-8d3a-4274-a475-583f61f1ee45",
+    "data": [
+      {
+        "text": "bananna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae3c7563-2e5b-458a-bebc-aa41bf2cf507",
+    "data": [
+      {
+        "text": "banana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

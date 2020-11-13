@@ -1,0 +1,46 @@
+{
+  "id": "e5c20cb9-dd14-44a5-90d5-143178894dac",
+  "parentId": "fcac4a8d-a370-4de7-858c-e7fdd19a6ee4",
+  "rootParentId": "fcac4a8d-a370-4de7-858c-e7fdd19a6ee4",
+  "name": "absolute garbage - yes",
+  "auto": true,
+  "contexts": [
+    "absolutegarbage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "absolutegarbage.absolutegarbage-yes",
+      "affectedContexts": [
+        {
+          "name": "absolutegarbage-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright. Here is the link to the survey: https://forms.gle/Q4ErQf9zMs6YTujX8",
+            "Ok. Here is the link to the survey: https://forms.gle/Q4ErQf9zMs6YTujX8",
+            "Here is the link to the survey: https://forms.gle/Q4ErQf9zMs6YTujX8"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "90bb6840-14bb-4e02-a2c5-2db0b6ab81be",
+  "parentId": "e5c20cb9-dd14-44a5-90d5-143178894dac",
+  "rootParentId": "fcac4a8d-a370-4de7-858c-e7fdd19a6ee4",
+  "name": "absolute garbage - yes - cancel",
+  "auto": true,
+  "contexts": [
+    "absolutegarbage-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "absolutegarbage.absolutegarbage-yes.absolutegarbage-yes-cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright.",
+            "Canceled.",
+            "Stopped.",
+            "Ok."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

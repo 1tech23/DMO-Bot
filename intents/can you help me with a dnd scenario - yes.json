@@ -1,0 +1,44 @@
+{
+  "id": "f886bc9f-3bde-42e0-8dd4-a70f122f0d34",
+  "parentId": "6f444639-dc81-4b36-bfae-1eaeef2b5598",
+  "rootParentId": "6f444639-dc81-4b36-bfae-1eaeef2b5598",
+  "name": "can you help me with a dnd scenario - yes",
+  "auto": true,
+  "contexts": [
+    "canyouhelpmewithadndscenario-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "canyouhelpmewithadndscenario.canyouhelpmewithadndscenario-yes",
+      "affectedContexts": [
+        {
+          "name": "canyouhelpmewithadndscenario-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is the copy of the book, in PDF form. Copy the following link into a new tab: https://drive.google.com/file/d/1-BWKP00Cqd0hyLejKiHkrQDQIGRb_RAU/view?usp\u003dsharing   . Is there anything else that I can help you with?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "417ba2de-f4e7-4e72-8215-6c9da2b68fc6",
+  "parentId": "fc1253f4-b278-479d-81c4-16b34a34afb0",
+  "rootParentId": "88dd256f-7c23-453f-adb1-97fbffef51f2",
+  "name": "favorite ice cream - custom - custom",
+  "auto": true,
+  "contexts": [
+    "favoriteicecream-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "favoriteicecream.favoriteicecream-custom.favoriteicecream-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cool. I like chocolate syrup, peanuts, and M\u0026Ms on my vanilla ice cream.",
+            "Amazing! I like chocolate syrup, peanuts, and M\u0026Ms on my vanilla ice cream.",
+            "Yes! I like chocolate syrup, peanuts, and M\u0026Ms on my vanilla ice cream.",
+            "Totes, McGoates! I like chocolate syrup, peanuts, and M\u0026Ms on my vanilla ice cream.",
+            "Heck yeah! I like chocolate syrup, peanuts, and M\u0026Ms on my vanilla ice cream."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

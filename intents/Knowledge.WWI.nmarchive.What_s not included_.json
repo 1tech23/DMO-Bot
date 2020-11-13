@@ -1,0 +1,35 @@
+{
+  "id": "50a59972-f5e2-4a6e-9fa3-42890c929f29",
+  "name": "Knowledge.WWI.nmarchive.What\u0027s not included?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Diaries that are not included in this collection are: Theatres of War other than the Western Front. All Army and Corps headquarters diaries and those for all other units whose command was not devolved from those Armies and Corps to Divisions. For example, heavy artillery, tank and most Army Service Corps Companies as well as several smaller specialist units such as Base Post Offices and Mobile Laboratories. Also not included are diaries for Lines of Communication troops or those in the Australian, New Zealand and Canadian Divisions. Some War Diaries were deliberately destroyed during the war for operational reasons. A few others have been lost for a variety of reasons during the intervening years."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

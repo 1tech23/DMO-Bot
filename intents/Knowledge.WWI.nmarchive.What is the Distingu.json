@@ -1,0 +1,35 @@
+{
+  "id": "2e7f0b1f-75c8-4fe0-8b7c-60d8c5d7b129",
+  "name": "Knowledge.WWI.nmarchive.What is the Distingu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Although the history of the Distinguished Conduct Medal, instituted in 1854, is complex, it prestige is simple. It was awarded \u0027for distinguished conduct in the field\u0027 and, ranking just below the Victoria Cross, is most highly regarded. During the First World War over 25,000, including nearly 500 first and second bars (additional awards), were given to army \u0027other ranks\u0027."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

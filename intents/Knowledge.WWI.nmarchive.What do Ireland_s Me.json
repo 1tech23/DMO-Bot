@@ -1,0 +1,35 @@
+{
+  "id": "23847ac3-6734-4f2a-bbe2-b66bb3d2ae0f",
+  "name": "Knowledge.WWI.nmarchive.What do Ireland\u0027s Me",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The principle information given for each person, whereas being similar to Soldiers Died in the Great War, quite often contains additional facts such as age and elaboration on how killed etc. For example, the entry, ‘died of wounds received in Sinn Fein Rebellion’ has been noticed. Details of pre-war medal entitlement and other odd facts occasionally occur. This is almost certainly the only publication to bring together so many of the Great War dead from all over Ireland in order that they may be individually and collectively honoured and remembered. Kitchener of Khartoum is probably the most senior officer commemorated."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

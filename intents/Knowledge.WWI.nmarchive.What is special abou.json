@@ -1,0 +1,35 @@
+{
+  "id": "316104f1-8984-4f2b-af97-db43bed023a2",
+  "name": "Knowledge.WWI.nmarchive.What is special abou",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Genealogists long ago realised the enormous value of the National Roll, for the information it contains is virtually unique. It gives a pen picture of the war service of well over 110,000 men and women. Included is the unit the person served in, their address, their medals and a brief biography of their service. In addition to those from the Navy, Army and Air Force, many civilian war workers are included. Each entry runs, on average, to over 100 words. Many areas of the country, in addition to London, were covered. Some volumes extend well beyond the named area. For example, ‘Southampton’ includes villages and towns many miles from the city. Other areas covered include: Manchester, Leeds, Portsmouth, Bradford, Salford, Birmingham, Luton, Bedford and Northampton."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

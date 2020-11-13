@@ -1,0 +1,35 @@
+{
+  "id": "4045a93a-2b6f-457b-9119-2f3db83cfd42",
+  "name": "Knowledge.WWI.nmarchive.What information can",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "A lot. Aside from their full name, rating, number, branch of service, name of ship or unit, decorations etc, other valuable information is usually available. The date and cause of death, location of their cemetery and reference of grave (where applicable) is shown, together with the name and address of the relative notified of the death. This last item will be especially useful to genealogists."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

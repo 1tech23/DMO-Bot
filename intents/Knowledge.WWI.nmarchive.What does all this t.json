@@ -1,0 +1,35 @@
+{
+  "id": "ae84bdb1-0f98-4fd8-810a-6ca815b34772",
+  "name": "Knowledge.WWI.nmarchive.What does all this t",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It typifies the sheer grit, determination and raw courage of some of our forebears who fought, in often appalling conditions, in a hideous war that lasted over four years. If your ancestor was not decorated for bravery that does not mean he was not brave. Many valiant acts were simply not officially witnessed to qualify for an award. Many others went unrecognised among the melee of ‘modern’ warfare. Perhaps your ancestors, serving alongside the recipients of the Distinguished Conduct Medal, were also eligible for a bravery award that for some quirk of fate was not recognised at the time."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

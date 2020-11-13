@@ -1,0 +1,35 @@
+{
+  "id": "7cee7553-2ee3-4a08-b0bf-40eb9999b0f5",
+  "name": "Knowledge.WWI.nmarchive.What is a war diary?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The headquarters of each unit and formation of the British Army in the field was ordered to maintain a record of its location, movements and activities. For the most part, these details were recorded on a standard army form headed \u0027War diary or intelligence summary\u0027."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

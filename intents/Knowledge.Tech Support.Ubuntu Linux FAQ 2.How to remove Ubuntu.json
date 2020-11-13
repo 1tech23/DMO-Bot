@@ -1,0 +1,35 @@
+{
+  "id": "377a4582-f307-4062-acf8-4fcae7010ecf",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How to remove Ubuntu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I have absolutely no experience with Linux, and I desperately need to get my computer back up and running again with Windows. How do I remove Ubuntu and reinstall Windows? Editor\u0027s note: many of the ... windows disk community wiki 21 revs, 14 users 41%Josev King"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

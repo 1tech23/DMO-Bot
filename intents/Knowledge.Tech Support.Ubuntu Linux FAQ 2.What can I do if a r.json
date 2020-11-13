@@ -1,0 +1,35 @@
+{
+  "id": "77009b1b-d05c-48ba-a6ab-f701e252df37",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.What can I do if a r",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "When updating, I get the following error message: W: The repository \u0027http://ppa.launchpad.net/mc3man/trusty-media/ubuntu xenial Release\u0027 does not have a Release file. Here, I find another statement ... apt package-management updates ppa asked Jan 1 \u002717 at 22:44 Addem 1,02333 gold badges1010 silver badges1313 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

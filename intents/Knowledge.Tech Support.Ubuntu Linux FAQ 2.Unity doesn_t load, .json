@@ -1,0 +1,35 @@
+{
+  "id": "98bdf32a-7e4b-4b9c-b019-6ba63d1ad153",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.Unity doesn\u0027t load, ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "When I login, nothing happens. I am presented with my desktop wallpaper. No Dash, no Launcher, nothing. unity asked Dec 14 \u002710 at 17:24 jrg 55.9k5151 gold badges164164 silver badges244244 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

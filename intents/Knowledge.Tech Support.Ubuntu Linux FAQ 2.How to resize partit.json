@@ -1,0 +1,35 @@
+{
+  "id": "67f87d5d-274e-4650-a5db-cc16f1f371dd",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How to resize partit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Previously, I have installed Windows 7 on my 320 GB laptop with three partitions 173, 84 and 63 GB each. The 63 GB partition was where the Windows was installed. The rest were for file containers. ... partitioning asked Apr 27 \u002712 at 14:02 Johannes 1,25922 gold badges99 silver badges33 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

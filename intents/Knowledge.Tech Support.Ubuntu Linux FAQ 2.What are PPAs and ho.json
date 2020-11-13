@@ -1,0 +1,35 @@
+{
+  "id": "0f5a393f-6736-4e46-9ac7-38d96e6b4958",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.What are PPAs and ho",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I keep reading about Personal Package Archives (\u0027PPAs\u0027) and people answer questions with a link to a PPA. What\u0027s the best way to use these? There are multiple valid answers for this question ... ppa community wiki 10 revs, 6 users 31%unknown"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

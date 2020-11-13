@@ -1,0 +1,35 @@
+{
+  "id": "e4077ef8-df51-4d4c-a8d9-8c99e81a181a",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.Unable to correct pr",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "After upgrading from 10.04 to 12.04 I am trying to install different packages. For instance ia32-libs and skype (4.0). When trying to install these, I am getting the \u0027Unable to correct problems, you ... apt asked Nov 28 \u002712 at 23:48 trond 2,79722 gold badges1010 silver badges33 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

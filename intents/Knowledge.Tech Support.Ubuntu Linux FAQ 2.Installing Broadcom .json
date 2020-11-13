@@ -1,0 +1,35 @@
+{
+  "id": "ebecec9d-ea86-4195-be7b-4730ceec9541",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.Installing Broadcom ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m having serious problems installing the Broadcom drivers for Ubuntu. It worked perfectly on my previous version, but now, it is impossible. What are the steps to install Broadcom wireless drivers ... networking drivers wireless software-installation broadcom community wiki 37 revs, 10 users 51%Luis Alvarado"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

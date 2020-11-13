@@ -1,0 +1,35 @@
+{
+  "id": "dc2a477c-7ee2-4496-9433-97dc65059585",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.My computer boots to",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am trying to boot Ubuntu on my computer. When I boot Ubuntu, it boots to a black screen. How can I fix this? Table of Contents: If you are trying to install Ubuntu If you have a dual boot system ... boot community wiki 14 revs, 8 users 56%Jorge Castro"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

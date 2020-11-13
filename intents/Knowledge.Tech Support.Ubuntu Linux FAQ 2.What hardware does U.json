@@ -1,0 +1,35 @@
+{
+  "id": "0c4bcfe6-8b2e-4001-b27f-5d7c0407594b",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.What hardware does U",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "With the announcement of the Ubuntu Phone OS I\u0027d like to know what phone (and tablet) models are supported at this time. Note from foss \u0026 Oli: We are making this the master question for all ... ubuntu-touch asked Jan 4 \u002713 at 20:03 Marco Ceppi♦ 45.6k2727 gold badges163163 silver badges196196 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

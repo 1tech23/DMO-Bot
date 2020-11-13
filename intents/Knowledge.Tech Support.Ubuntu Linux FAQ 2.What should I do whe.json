@@ -1,0 +1,35 @@
+{
+  "id": "c837a7a4-f854-4048-a365-6713c0fda01c",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.What should I do whe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All operating systems freeze sometimes, and Ubuntu is no exception. What should I do to regain control when... just one program stops responding? nothing at all responds to mouse clicks or key ... bug-reporting community wiki 12 revs, 7 users 36%ændrük"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

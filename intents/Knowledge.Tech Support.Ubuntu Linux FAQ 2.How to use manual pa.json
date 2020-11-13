@@ -1,0 +1,35 @@
+{
+  "id": "6d79e90b-52d9-498f-8670-45f8036d6f72",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How to use manual pa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027d like to see the full How-To on how to use manual partitioning during Ubuntu installation. The existing guides (at least those I found here) cover only automatic part and leave untouched the manual ... partitioning system-installation asked Sep 9 \u002713 at 10:00 Danatela 12.4k1111 gold badges3939 silver badges6868 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b548f184-b31d-40e8-a62b-a4bfd5fcd8ce",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.What is the proper w",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This is the third time I\u0027ve tried to install Ubuntu Server 14.04.03 64-bit on the same laptop, and each time it caused different problems. Each time I wrote the same iso image to a USB flash drive by ... server system-installation live-usb asked Sep 15 \u002715 at 14:06 emrecnl 82022 gold badges1010 silver badges1818 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

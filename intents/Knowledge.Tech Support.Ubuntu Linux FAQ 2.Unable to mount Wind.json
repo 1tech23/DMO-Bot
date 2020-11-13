@@ -1,0 +1,35 @@
+{
+  "id": "a19ae6fa-742b-4d90-9dfc-5fbd835a5edb",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.Unable to mount Wind",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Whenever I boot Ubuntu, I get a message that it cannot mount my windows partition, and I can choose to either wait, skip or manually mount. When I try to enter my Windows partition through Nautilus I ... windows mount ntfs hibernate asked Jun 3 \u002712 at 12:47 yotamoo 3,87955 gold badges1515 silver badges1010 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

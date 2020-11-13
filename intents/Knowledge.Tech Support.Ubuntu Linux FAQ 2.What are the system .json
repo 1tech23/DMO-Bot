@@ -1,0 +1,35 @@
+{
+  "id": "d9162688-cada-4b3d-9846-aaa16a720123",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.What are the system ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m thinking about installing Ubuntu Desktop, but I don\u0027t know what flavor is the best for my system. What are the minimum and recommended hardware requirements? What kind of CPU? How much memory? ... system-requirements asked Aug 17 \u002713 at 14:28 Braiam 60.5k2222 gold badges158158 silver badges242242 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

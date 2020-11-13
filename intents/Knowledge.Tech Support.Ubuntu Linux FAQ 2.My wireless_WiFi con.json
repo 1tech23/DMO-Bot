@@ -1,0 +1,35 @@
+{
+  "id": "3183d7de-2754-4fcc-9659-6781bf811f7e",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.My wireless/WiFi con",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your situation You have successfully installed Ubuntu. You have just downloaded and booted Ubuntu live media. The latest LTS (see also HWE) or latest non-LTS release are preferred. See the list of ... wireless asked Feb 23 \u002714 at 17:36 Wild Man 7,69744 gold badges3030 silver badges4242 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

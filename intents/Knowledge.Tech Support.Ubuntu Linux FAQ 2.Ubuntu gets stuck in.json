@@ -1,0 +1,35 @@
+{
+  "id": "a6cd9cfb-21db-4831-b400-edd2852d7ae3",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.Ubuntu gets stuck in",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "My Ubuntu is stuck in a login loop when trying to enter my desktop. When I login, the screen gets black and soon after that the login screen comes back. I\u0027ve read that the problem might be caused by ... login lightdm login-screen asked Nov 29 \u002712 at 16:57 Calvin Wahlers 5,21333 gold badges1010 silver badges66 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

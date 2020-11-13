@@ -1,0 +1,35 @@
+{
+  "id": "f8f4365e-9e8c-4f31-9940-da06b63bc3b9",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.I have a hardware de",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am trying to ask a question about getting my hardware to work but I don\u0027t know what information to add to my question to get help, what do I need to do? Related if you don\u0027t have access to a GUI: ... debugging asked Nov 19 \u002710 at 12:49 Jorge Castro 64.2k111111 gold badges446446 silver badges644644 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

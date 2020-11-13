@@ -1,0 +1,35 @@
+{
+  "id": "5d281c18-3a13-4a8f-b50e-0fbab076708d",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.Is a NVIDIA GeForce ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am considering buying a Dell XPS 15 laptop. The laptop has a Nvidia 420m card which should work with Linux but I keep reading that the Nvidia Optimus technology isn\u0027t supported on Linux. I am not ... nvidia graphics hardware nvidia-optimus asked Apr 25 \u002711 at 10:32 DSJones 1,74133 gold badges1111 silver badges33 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

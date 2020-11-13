@@ -1,0 +1,35 @@
+{
+  "id": "16c043fb-0275-4676-9402-f411261f85c7",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.Unable to boot into ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I installed Windows on my computer, followed by an installation of Ubuntu. However, now I\u0027m unable to boot into my Windows install. What can I do to fix this? boot grub2 windows asked Nov 16 \u002712 at 5:14 Vishnu Bathala 77322 gold badges88 silver badges2626 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

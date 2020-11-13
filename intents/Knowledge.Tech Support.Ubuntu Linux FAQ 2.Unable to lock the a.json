@@ -1,0 +1,35 @@
+{
+  "id": "ebe8d667-8f44-4d18-a515-0770e273626f",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.Unable to lock the a",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I get this error when trying to use apt-get: E: Could not get lock /var/lib/dpkg/lock - open (11 Resource temporarily unavailable) E: Unable to lock the administration directory (/var/lib/dpkg/) is ... apt package-management dpkg asked Nov 30 \u002710 at 2:12 La Ode Adam Saputra 11.2k33 gold badges1414 silver badges88 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

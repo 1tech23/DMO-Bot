@@ -1,0 +1,35 @@
+{
+  "id": "62fcf66a-5158-4193-b417-2511a7e11cc4",
+  "name": "Knowledge.Tech Support.MacBook FAQ 1.How much will these ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Apple has kept the price the same across the board, except for one major price reduction — the MacBook Pro 13-inch. MacBook - $1299 MacBook Pro 13-inch - $1299 MacBook Pro 13-inch (with Touch Bar) - $1799 MacBook Pro 15-inch (with Touch Bar) - $2399"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

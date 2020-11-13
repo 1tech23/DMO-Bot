@@ -1,0 +1,35 @@
+{
+  "id": "7048bde3-556a-4177-90b5-aa064154be00",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How can I install Wi_294",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I have Ubuntu on my laptop. Now I want install Windows 7 in a dual-boot. How can I do this? I can\u0027t lose my Ubuntu files, and I\u0027m afraid that I might break GRUB. Go here for UEFI only! dual-boot windows system-installation asked Oct 12 \u002710 at 7:28 Sk8er 3,50944 gold badges2020 silver badges2626 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

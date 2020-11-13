@@ -1,0 +1,35 @@
+{
+  "id": "2bb6d092-c373-4a2b-8f59-ef52e5f0e7ae",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How can I install so",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I have a friend who has got a computer that is not connected to the Internet. Is there any way to install software offline easily? package-management asked Aug 5 \u002710 at 6:12 akshatj 12k1313 gold badges4343 silver badges6565 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

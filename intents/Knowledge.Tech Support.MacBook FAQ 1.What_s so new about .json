@@ -1,0 +1,35 @@
+{
+  "id": "aec4326d-4df3-4410-8c54-386f06015fcc",
+  "name": "Knowledge.Tech Support.MacBook FAQ 1.What\u0027s so new about ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It\u0027s a small, but big update. Apple has updated it\u0027s entire line of mobile desktop computers with three major internal changes.Save big on these VPN services ahead of Black Friday Kaby Lake graphics Up to 50% faster on SSD. Faster standard graphics on MacBook Pro 15-inch"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

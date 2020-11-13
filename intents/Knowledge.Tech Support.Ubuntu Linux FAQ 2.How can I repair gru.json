@@ -1,0 +1,35 @@
+{
+  "id": "9ba8161c-82f1-4475-a8b6-1439e2a18b9f",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How can I repair gru",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I installed Windows 7, which ate Ubuntu\u0027s boot file. When starting up the computer, it now goes straight to Windows, without giving me the option of booting Ubuntu. How can I get Ubuntu back? dual-boot grub2 windows boot-repair asked Dec 17 \u002711 at 7:02 Salahuddin 4,16177 gold badges1818 silver badges1919 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

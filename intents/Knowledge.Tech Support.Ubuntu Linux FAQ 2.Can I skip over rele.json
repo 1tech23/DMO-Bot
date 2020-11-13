@@ -1,0 +1,35 @@
+{
+  "id": "6c5dc1f7-acdb-451a-ae71-b3c6f277ee19",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.Can I skip over rele",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am currently using Ubuntu 10.04. I know there is a 10.10 release, but can I upgrade directly to 11.04? Could you walk me through the steps please? upgrade asked Apr 10 \u002711 at 21:32 Jared Reyes 1,29122 gold badges99 silver badges44 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

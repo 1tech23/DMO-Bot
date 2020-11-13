@@ -1,0 +1,35 @@
+{
+  "id": "7769f796-e094-4b99-a5d8-1ec0bd9ff1d3",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How can I fix a 404 ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "PPA seems to be constantly offline. Whenever I use sudo apt-get update, this error is shown: W: Failed to fetch http://ppa.launchpad.net/ 404 Not Found How do I fix these errors? apt ppa repository asked Oct 14 \u002711 at 1:16 Pedro 2,89133 gold badges1212 silver badges33 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

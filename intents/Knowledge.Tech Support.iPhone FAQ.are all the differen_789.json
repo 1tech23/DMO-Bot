@@ -1,0 +1,35 @@
+{
+  "id": "d52aebcf-9fff-44ea-abdf-f7eaf2b4b1b4",
+  "name": "Knowledge.Tech Support.iPhone FAQ.are all the differen_789",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What are the major differences between the iPhone 11 Pro and iPhone 11 Pro Max and the iPhone XS and iPhone XS Max replaced?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

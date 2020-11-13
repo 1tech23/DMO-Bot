@@ -1,0 +1,15 @@
+[
+  {
+    "id": "74da5f42-38c4-4d42-9619-be3c52dbb002",
+    "data": [
+      {
+        "text": "dpkg error: “trying to overwrite file, which is also in…”",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

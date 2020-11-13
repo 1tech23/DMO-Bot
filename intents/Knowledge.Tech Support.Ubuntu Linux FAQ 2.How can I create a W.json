@@ -1,0 +1,35 @@
+{
+  "id": "07f08444-f0d7-4a95-a5b8-151bd94da864",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How can I create a W",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027d like to create a Windows bootable USB stick, but I don\u0027t have a Windows machine with me at the moment to do so. How could I achieve the same using Ubuntu? windows usb-installation usb-creator asked May 2 \u002713 at 13:28 Zignd 9,7561212 gold badges3333 silver badges6262 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

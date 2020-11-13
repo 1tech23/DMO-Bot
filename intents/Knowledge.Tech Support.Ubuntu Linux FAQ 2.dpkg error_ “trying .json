@@ -1,0 +1,35 @@
+{
+  "id": "0bd06991-07df-40d2-b089-718bed785591",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.dpkg error: “trying ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For example: $ sudo apt-get install curl Reading package lists... Done Building dependency tree Reading state information... Done You might want to run \u0027apt-get -f install\u0027 to correct these: The ... apt software-installation dpkg asked Aug 15 \u002712 at 12:31 missingfaktor 1,81944 gold badges1616 silver badges2323 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

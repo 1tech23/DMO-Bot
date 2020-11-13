@@ -1,0 +1,35 @@
+{
+  "id": "825dc8a1-22b7-417a-8c82-bc4b7c75a29e",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 1.Should I use 64 bit?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What is the difference between the Desktop / Server / and alternate CD\u0027s? The \"Desktop\" CD is a \"live CD\" and boots Ubuntu without changing your hard drive. Use the desktop CD to test your hardware. To install Ubuntu click on the \"install\" icon on the desktop. The \"Alternate\" CD is a install CD (no \"live\" desktop) and is used if the Desktop fails. In addition the Alternate CD allows \"advanced\" features such as a minimal install, LVM, RAID, and encryption. The \"Server\" CD is also a installation CD and will set up LAMP. The server installation comes with no GUI (Graphical Interface). The \"Minimal\" CD is a minimal command line installation. It installs the base operating system and package manager with no GUI. This CD is not recommended for users with slow internet connections. How to boot the live CD Trouble booting from CD?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6dbdcea1-57c8-4467-baef-92135e72c47e",
+  "name": "Knowledge.Tech Support.Ubuntu Linux FAQ 2.How can I install Wi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Can .exe and .msi files (Windows software) be installed in Ubuntu? windows wine games asked Aug 5 \u002710 at 7:18 akshatj 12k1313 gold badges4343 silver badges6565 bronze badges"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
